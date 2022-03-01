@@ -1,0 +1,943 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1. Crosses, 2. comforts, 3. counsels. Needfull to be considered, and carefully to be laid up in the hearts of the godly, in these boysterous broiles, and bloody times. / By M. Zacharie Boyd.</title>
+            <author>Boyd, Zacharie, 1585?-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01750</idno>
+            <idno type="STC">Wing B3905</idno>
+            <idno type="STC">ESTC R170737</idno>
+            <idno type="EEBO-CITATION">51784407</idno>
+            <idno type="OCLC">ocm 51784407</idno>
+            <idno type="VID">174829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174829)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2701:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>1. Crosses, 2. comforts, 3. counsels. Needfull to be considered, and carefully to be laid up in the hearts of the godly, in these boysterous broiles, and bloody times. / By M. Zacharie Boyd.</title>
+                  <author>Boyd, Zacharie, 1585?-1653.</author>
+               </titleStmt>
+               <extent>80 p.   </extent>
+               <publicationStmt>
+                  <publisher>by George Anderson,</publisher>
+                  <pubPlace>Printed in Glasgow :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Many pagination errors.</note>
+                  <note>Title vignette.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Scotland --  Early works to 1800.</term>
+               <term>Sermons, English --  Scotland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174829:1" rendition="simple:additions"/>
+            <pb facs="tcp:174829:1"/>
+            <pb facs="tcp:174829:2"/>
+            <pb facs="tcp:174829:2" rendition="simple:additions"/>
+            <pb facs="tcp:174829:3"/>
+            <pb facs="tcp:174829:3" rendition="simple:additions"/>
+            <p>1. CROSSES, 2. COMFORTS, 3. COUNSELS. Needfull to bee conſidered, <hi>and carefully to be laid up in the</hi> Hearts of the Godly, in theſe <hi>boy<g ref="char:EOLhyphen"/>ſterous broiles, and bloody times.</hi> By M. <hi>Zacharie Boyd.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Iſa. 9.5.</hi>
+               </bibl> Every Battell of the Warriou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is with confuſed noiſe, and garments rolled in blood.</q>
+            <q>
+               <bibl>
+                  <hi>Ierem. 8.22.</hi>
+               </bibl> Is there no balme in Gilead?</q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 50.15.</hi>
+               </bibl> Call upon me in the day trouble, and I will deliver thee.</q>
+            <figure>
+               <figDesc>printer's device of George Anderson, featuring a male head at the centre of an arrangement of tassles and feathers, with a lion's head at the top left and right corners (not in McKerrow)</figDesc>
+            </figure>
+            <p>
+               <hi>Printed at</hi> Glaſgow <hi>by</hi> George Anderſon, 1643.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:174829:4"/>
+            <p>
+               <figure>
+                  <figDesc>emblematic printer's device of John Day, featuring an old man displaying a skeleton on an ornate tomb to a younger one; from the skeleton issues a tree; in the background is a coastal town (McKerrow 128)</figDesc>
+                  <p>ETSI MORS, INDIES ACCELERAT</p>
+                  <p>VIVET TAMEN POST FVNERA VIRTVS</p>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:174829:4"/>
+            <head>To the right Noble, and moſt Vertuous Lady, D. ANNE CUNINGAME, Lady Marqueſſe of <hi>Hamiltoun.</hi>
+            </head>
+            <opener>
+               <salute>MADAME,</salute>
+            </opener>
+            <p>THis earth, as one hath ſaid well, is but <hi>a moat of darkneſſe, and a lump of vanitie;</hi> yea all things under the Sun, ſaith <hi>Salomon,</hi> are but <hi>vanitie of vanities;</hi>
+               <note place="margin">Ec. 1.2 Ec. 12.13</note> our only wiſdome is to <hi>fear GOD, and keep his commandments, this is the whole duety of man,</hi> which ſhould be our chiefest task.</p>
+            <p>But, alas, <hi>our diviſions</hi> like harpies and horſeleaches <hi>are ready to rent and tear in pieces the very</hi> heart strings, <hi>and to ſuck out</hi> the inmoſt blood, and laſt life of our dearly beloved mother the Church of Britain.</p>
+            <p>And now your La. who have hitherto <hi>win good reputation</hi> among the Saints,
+<note place="margin">Judg. 5.7</note> is heer deſired to continue to be a <hi>Deborah, a mo<g ref="char:EOLhyphen"/>ther in Iſrael.</hi>
+            </p>
+            <p>It is a worthie and noble imployment to do any good for the well of Zion: your La.
+<note place="margin">Note.</note> is a branch of that noble and ancient houſe of <hi>Glencarn,</hi> who in the firſt reformation, to their eternall praiſe, while many others like <hi>Iſſachar,</hi> a dull aſſe,
+<note place="margin">Gen. 49.14 Judg 5.23</note> 
+               <hi>did couch down betweene two burdens,</hi> came out boldly, <hi>to help the LORD againſt the mightie.</hi>
+            </p>
+            <pb facs="tcp:174829:5"/>
+            <p>The Gunpowder papiſts <hi>are now in hopes with</hi> power and policie, craft and crueltie, <hi>to take GODS Ark priſoner, and to ſet up their Dagon.</hi>
+            </p>
+            <p>Our refuge is to the Lord of hoſtes, who in the <hi>very turning of an hand, and clo<g ref="char:EOLhyphen"/>ſing of an eye,</hi> can daſh down all their bloo<g ref="char:EOLhyphen"/>die deſignes, as He marred the <hi>fox FAUX</hi> from <hi>fireing the powder.</hi>
+            </p>
+            <p>How ever the matter go, Christ muſt be true, his ſervants must look for affliction; In the Text of theſe ſermons, he ſaith un<g ref="char:EOLhyphen"/>to them, <hi>Ye ſhall be betrayed by parents and brethren, &amp;c.</hi> In this little valume I have done what I could, by Gods grace, to <hi>deſcry and decipher both</hi> Croſſes, Com<g ref="char:EOLhyphen"/>forts <hi>and</hi> counſell, for the well of Gods kirk in theſe bloody dayes.</p>
+            <p>Heer willing to acquit ſome part of my bounden duety towards your La. no leſſe emi<g ref="char:EOLhyphen"/>nant <hi>in goodneſſe than in greatneſſe,</hi>
+               <note place="margin">2 Iohn. 1</note> I dedicate this little to ſpeake in S. <hi>Iohnes</hi> words. <hi>Vnto the elect Lady and her chil<g ref="char:EOLhyphen"/>dren, whom I love in the truth:</hi> That both your La. and your most noble Poſteri<g ref="char:EOLhyphen"/>tie, may ever be on <hi>Chriſts ſide,</hi> I humbly proſtrate and powre out my ſoule, before the Throne of Grace and Mercie.</p>
+            <closer>
+               <signed>Your La. humble and obedient ſer<g ref="char:EOLhyphen"/>vant, <hi>M. Zachary Boyd.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:174829:5"/>
+            <head>CROSSES. The firſt Sermon, preached the 12. day of March; 1643.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>LUKE XXI. 16.</hi>
+                  </bibl>
+                  <p>Yee ſhall be betrayed both by Pa<g ref="char:EOLhyphen"/>rents, and Brethren, and Kinſmen, and Friends, and ſome of you ſhall they cauſe to be put to death.</p>
+                  <bibl>
+                     <hi>Verſ. 17.</hi>
+                  </bibl>
+                  <p>And yee ſhall be hated of all men for my Names ſake.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here be four parts in this Chapter; in the firſt part un<g ref="char:EOLhyphen"/>till the fifth verſe Chriſt commend<g ref="char:EOLhyphen"/>eth the poore wi<g ref="char:EOLhyphen"/>dow, who caſt in her <hi>two mites</hi> in<g ref="char:EOLhyphen"/>to the treaſurie.</p>
+            <p>There be contributions appoin<g ref="char:EOLhyphen"/>ted now for Gods church in great
+<pb n="6" facs="tcp:174829:6"/>diſtreſſe: A publict faſt with teares and prayers have been ordained to be through the whole land <hi>from Dan even to Beerſhebah.</hi>
+               <note n="*" place="margin">Sam. 17.11 Note.</note> Happy art thou who ever thou be, if from a ſincere heart thou contribute the leaſt mite of a holy grone for the well of <hi>Zion,</hi>
+               <note place="margin">Pſal. 122.6</note> the pſalmiſt ſaith, <hi>they ſhall proſper that love thee:</hi> In the ſecond part of this chapter from the fifth verſe untill the twentiefive, Chriſt fortelleth the deſtruction of the <hi>Temple:</hi> All glory muſt go down that ſtands not by Chriſts favour; Chriſt was unwelcome to that <hi>Temple,</hi> and therefore a ſtone was not left upon a ſtone: alſo it behoved all cere<g ref="char:EOLhyphen"/>monies to flee away quickly after the comming of that bright and glorious Sun, <hi>the Sun of righte<g ref="char:EOLhyphen"/>ouſneſſe.</hi>
+               <note place="margin">Mal. 4.2</note>
+            </p>
+            <p>In the third part from the twen<g ref="char:EOLhyphen"/>ty and fifth verſe untill the thirtie and fourth, it is declared what
+<pb n="7" facs="tcp:174829:6"/>ſignes ſhould appear before the laſt day: When that day ſhall come, then all Gods children ſhall get reſt,
+<note place="margin">Rev. 21.4</note> 
+               <hi>all teares ſhall bee wiped from their eyes.</hi>
+            </p>
+            <p>In the fourth part, from the thirtie and fourth verſe untill the end, the <hi>LORD</hi> exhorteth all his ſervants to be watchfull, There was never greater need to watch and pray then at this time, for there were never greater dangers nor moe tentations; for this cauſe, I in Chriſts owne wordes exhort you all, <hi>Watch and pray,</hi>
+               <note place="margin">Mat. 26.41</note> 
+               <hi>that yee enter not into temptation.</hi>
+            </p>
+            <p>The words of my text, are within the compaſſe of the ſecond part; they containe diverſe croſſes that were to come upon Chriſts ſervants, before the deſtruction of the Temple of <hi>Jeruſalem.</hi>
+            </p>
+            <p>Before the deſtruction of a na<g ref="char:EOLhyphen"/>tion, a city or familie, or private man, the <hi>LORD</hi> ordinarly giveth
+<pb n="8" facs="tcp:174829:7"/>warnings leſſe or more:
+<note n="*" place="margin">Note.</note> As in temporall things, ſignes before tempeſts appeare; as ſweating of ſtones, flying of foules; noiſe of dams and great water falls threeds on the graſſe, a red ſun and a low<g ref="char:EOLhyphen"/>ring skie in the morning; ſo before deſolations of countreys, deſtru<g ref="char:EOLhyphen"/>ctions of cities, families, or pri<g ref="char:EOLhyphen"/>vate men, the Lord ordinarly giv<g ref="char:EOLhyphen"/>eth warning that men may make good uſe of the ſame.</p>
+            <p>As for us, let us not be like theſe to whom the Lord ſaid, <hi>O yee hy<g ref="char:EOLhyphen"/>pocrites,
+<note place="margin">Math. 16.9</note> yee can diſcerne the face of the skie, but can yee not diſcerne the ſignes of the times?</hi> that is, the ſignes going before the firſt com<g ref="char:EOLhyphen"/>ming of Chriſt; now we may diſ<g ref="char:EOLhyphen"/>cerne the ſignes of great judge<g ref="char:EOLhyphen"/>ments to come on this unthank<g ref="char:EOLhyphen"/>full generation.</p>
+            <p>In the words of this text, there is a warning given by <hi>Chriſt</hi> to his di<g ref="char:EOLhyphen"/>ſciples, concerning great troubles
+<pb n="9" facs="tcp:174829:7"/>that were to come upon them; <hi>yee,</hi> ſaid be, <hi>ſhall be betrayed both by parents and brethren, and kinſe<g ref="char:EOLhyphen"/>folkes, and friends.</hi>
+            </p>
+            <p>This text is moſt fit for this time, wherein we may moſt clear<g ref="char:EOLhyphen"/>ly ſee ſignes of horrible troubles coming upon Gods church:
+<note place="margin">Note.</note> The Lord is threatning to <hi>plead againſt us both with famine and blood:</hi>
+               <note place="margin">Eze. 38.22</note> let us now come to the words where<g ref="char:EOLhyphen"/>in we have to ſpeak of <hi>croſſes.</hi>
+            </p>
+            <p>
+               <label>The diviſion of the text.</label> IN the words that I have read, there is a prediction of great croſſes and calamities to come u<g ref="char:EOLhyphen"/>pon Chriſts ſervants; there bee three parts of the text: In the firſt, Chriſt for telleth that they ſhall be <hi>betrayed;</hi> In the ſecond part he de<g ref="char:EOLhyphen"/>clareth that <hi>ſome of them ſhall be put to death;</hi> In the third part hee ſhoweth that they ſhall be <hi>hated of all men for his names ſake;</hi> Of theſe
+<pb n="10" facs="tcp:174829:8"/>I ſhall ſpeak in order as God ſhall aſſiſt me by his holy Spirit.</p>
+            <div n="1" type="part">
+               <head>I. PART. <hi>Betraying.</hi>
+               </head>
+               <p>IN all the parts of this text, the Lord forwarneth his diſciples both preſent and to come, of very great troubles; <hi>yee,</hi> ſaid he, <hi>ſhall be betrayed both by parents and kinſe<g ref="char:EOLhyphen"/>folkes and friends,</hi> &amp;c.</p>
+               <p>Obſerve heere firſt in generall,
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note> the great mercy of God towards his own children; he ſenſibly giv<g ref="char:EOLhyphen"/>eth them warning before troubles come; he telleth them moſt plainly that heer is not their reſt, but that they muſt look for many troubles, even troubles of all ſorts: The Lord in forwarning his children of troubles, hath one of theſe two ends before him; either he doeth ſo that his ſervants may eſcape the danger,
+<note place="margin">Gen. 6.13</note> ſo <hi>Noah</hi> was warned by God to make an Arke, and to ſave himſelf and his familie from the
+<pb n="11" facs="tcp:174829:8"/>flood;
+<note place="margin">Gen. 19.15</note> ſo <hi>Lot</hi> was warned by the Angel to flee from <hi>Sodome,</hi> before fire came down and deſtroyed it; or elſe God giveth to his ſervants forewarning of troubles, that they may prepare themſelves to beare them the more patientlie and cou<g ref="char:EOLhyphen"/>ragiouſly; for this end eſpeciallie hee made his Apoſtles acquain<g ref="char:EOLhyphen"/>ted before hand, that very great troubles were to fall upon them.</p>
+               <p>
+                  <hi>The uſe,</hi>
+                  <note place="margin">The uſe.</note> let us all take this war<g ref="char:EOLhyphen"/>ning to our ſelves wee have had a long peace, but let us not look, for a perpetuall proſperitie; Gods Church below is a <hi>militant Church</hi> ever in a warfare; as long as the di<g ref="char:EOLhyphen"/>vell and wicked men are permit<g ref="char:EOLhyphen"/>ted to goe looſe in the world, the church ſhall not want her enemies;
+<note place="margin">Pſal. 30.6</note> It was a verie fooliſh word that <hi>David</hi> ſaid, <hi>I ſaid in my proſperitie, I ſhall never bee moved,</hi> but what followed? <hi>thou didſt hide thy face and I was troubled.</hi>
+                  <note place="margin">Note.</note> God for the
+<pb n="12" facs="tcp:174829:9"/>ſins of this land doeth threaten to <hi>hide his face;</hi> if he do ſo, we all ſhall be troubled: how ever it go, we are much beholden to the Lord who theſe years bypaſt hath giv<g ref="char:EOLhyphen"/>en us ſo many warnings, whereas he might have ſuffered us with the wicked to <hi>returne and be aſhamed ſuddenly;</hi>
+                  <note place="margin">Pſal. 6.11</note>
+                  <note n="*" place="margin">Note.</note> He hath not at the firſt ſaid to us as he ſaid to his own people Iſrael,
+<note place="margin">Exo. 33.5</note> 
+                  <hi>I will come up into the midſt of thee in a moment, and con<g ref="char:EOLhyphen"/>ſume thee;</hi> theſe five or ſix years bypaſt, the Lord hath been ſtill threatning with judgements after judgements, to come up into the midſt of us, for to conſume us; he hath not ſpoken of <hi>moments</hi> but of <hi>years,</hi> and for <hi>moments,</hi> hath given us <hi>years</hi> to repent in; and woe unto us if we make not good uſe of ſuch a rare and wonderfull mercy.</p>
+               <p>Let us now from the generall come to the particulars; the Lord in this text giveth his diſciples war<g ref="char:EOLhyphen"/>ning
+<pb n="13" facs="tcp:174829:9"/>of three particular evils, firſt <hi>betraying:</hi> ſecondly, <hi>putting to death of ſome;</hi> thirdly an univer<g ref="char:EOLhyphen"/>ſall <hi>hatred for his names ſake;</hi> firſt we have to ſpeak of <hi>betraying.</hi>
+               </p>
+               <p>The firſt evill he forewarnes them of, is <hi>betraying;</hi> the word in the originall ſignifieth to yeeld, to commit, to give over, or betray; theſe by whom they ſhould bee betrayed, are here foure in num<g ref="char:EOLhyphen"/>ber: 1. their <hi>parents:</hi> 2. their <hi>bre<g ref="char:EOLhyphen"/>thren:</hi> 3. their <hi>kinſemen:</hi> 4. their <hi>friends;</hi> Chriſt in <hi>Mathew</hi> mak<g ref="char:EOLhyphen"/>eth mention of the like unnaturall dealing; <hi>the brother</hi> ſaith he,
+<note place="margin">Mat. 10.21</note> 
+                  <hi>ſhall deliver up the brother to death and the father the childe, and the chil<g ref="char:EOLhyphen"/>dren ſhall riſe up againſt their pa<g ref="char:EOLhyphen"/>rents, and cauſe them to be put to death:</hi>
+                  <note n="*" place="margin">Note.</note> The ſenſe of all theſe words is, as if the Lord had ſaid to his Apoſtles, &amp; to all the faithfull; your troubles ſhall be very great, for they ſhall proceed not only
+<pb n="14" facs="tcp:174829:10"/>from ſtrangers, but from your dea<g ref="char:EOLhyphen"/>reſt and neareſt in nature, even from your <hi>parents, children, bre<g ref="char:EOLhyphen"/>thren kinſmen, friends,</hi> from whom in all worldly appearance yee might expect your greateſt com<g ref="char:EOLhyphen"/>forts, as being theſe whoſe bowels ſhould be full of favour and tender love for to procure your good.</p>
+               <p>Obſerve here that Gods deareſt children,
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note> who are <hi>Pſal.</hi> 119.38. <hi>de<g ref="char:EOLhyphen"/>voted to Gods fear,</hi> are ſubject to great afflictions; the trouble is very piercing when we are croſſed by theſe who ſhould be our ſpeciall <hi>comfort.</hi>
+                  <note n="*" place="margin">Note.</note> After that <hi>David</hi> had ſpoken of many that had troubled him, he melting for heavineſſe ſubjoyned this as more then all,
+<note place="margin">Pſal. 41.9</note> 
+                  <hi>yet my familiar friend in whom I tru<g ref="char:EOLhyphen"/>ſted which did eat of my bread, hath lift up his heele againſt me,</hi> this was ſaid of <hi>Ahitophel</hi> in the firſt place, and after of <hi>Judas</hi> his treachery, againſt Chriſt, of whom Chriſt ſaid
+<pb n="15" facs="tcp:174829:10"/>in the new Teſtament,
+<note place="margin">Iohn 13.18</note> 
+                  <hi>He that eat<g ref="char:EOLhyphen"/>eth bread with me, hath lift up his heele againſt me,</hi> when a maſter is betrayed by his ſervant, when a Father or a mother is croſſed by their children, the affliction is very painfull to bear; <hi>Jobs</hi> friends were a great grief unto him, their words wounded him more on the doung hill, then the evill he had received by the <hi>Sabeans</hi> and <hi>Caldeans,</hi> who had robbed him of all his goods.</p>
+               <p>
+                  <hi>The</hi> 1. <hi>uſe;</hi>
+                  <note place="margin">The 1. uſe.</note> when ſuch things be<g ref="char:EOLhyphen"/>fall us, that our neareſt friends trouble us, let us remember that ſuch hath beene the caſe of the deareſt of Gods children;
+<note n="*" place="margin">Note.</note>
+                  <note place="margin">1 Sam. 14.44 2 Sam. 15.12 Iohn. 18.2</note> 
+                  <hi>Jona<g ref="char:EOLhyphen"/>than</hi> had a perſecuting <hi>father</hi> and <hi>David</hi> a perſecuting <hi>ſonne,</hi> and Chriſt had a traitour <hi>ſervant:</hi> and to all the apoſtles it is ſaid here, <hi>yee ſhall be betrayed both by parents and by brethren,</hi>
+                  <note place="margin">Pſal. 116.19</note> 
+                  <hi>and kinsmen and friends;</hi>
+               </p>
+               <p>
+                  <hi>The</hi> 2. <hi>uſe:</hi>
+                  <note n="*" place="margin">The 2. uſe. Note.</note> Let us learn here
+<pb n="16" facs="tcp:174829:11"/>neither in the cauſe of God, nor yet in things that concerne our ſelves to truſt in any man; <hi>Job ſaid, my friends ſcorn me,</hi>
+                  <note place="margin">Job. 16.20</note> many may ſay the like: behold here how <hi>parents</hi> and <hi>brethren</hi> and <hi>kinſemen</hi> and <hi>friends</hi> turne all traitours to betray the ſervants of the Lord;
+<note n="*" place="margin">Note.</note> There is only one father that cannot betray his children even God <hi>our father,</hi> only one Brother, and only one friend, only one kinſeman Chriſt, that changeth not in his love; but as for men <hi>all men are lyers,</hi>
+                  <note place="margin">Pſal. 73.26</note> 
+                  <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſaid that God <hi>failed him ne<g ref="char:EOLhyphen"/>ver.</hi>
+                  <note n="*" place="margin">Note.</note> If men in theſe laſt dayes had the eyes of <hi>Eliſhah,</hi> to ſee within the breaſts of men,
+<note place="margin">2 King. 8.11</note> as hee looked into <hi>Hazael,</hi> they would ſee in many familiar friends things to be done, for which they might juſtly in <hi>Hazaels</hi> words. be called <hi>dogges</hi> rather then men.
+<note n="*" place="margin">Note.</note> God hath hid many particulars from our eyes, but he hath told us this in ge<g ref="char:EOLhyphen"/>nerall,
+<pb n="17" facs="tcp:174829:11"/>that many who ſeeme to be our greateſt friends, will not faile to betray us. A man ſitting at the Sermon like a childe <hi>ſucking his mothers breaſts,</hi> will bee ready to betray the preacher; when he finds his time, hee will ſpit out the <hi>ſin<g ref="char:EOLhyphen"/>cere milk of Gods Word,</hi>
+                  <note place="margin">1 Pet. 2.2</note> and call it the <hi>bitter gall of treaſon:</hi>
+                  <note n="*" place="margin">Note.</note> As <hi>Jrijah</hi> the Captaine of the Ward falſly accuſed the Prophet <hi>Jere<g ref="char:EOLhyphen"/>miah,</hi> ſaying, Thou art a Traitour,
+<note place="margin">Jer. 37.13</note> 
+                  <hi>Thou falleſt away to the Caldeans;</hi> to ſuch many Preachers may ſay,
+<note place="margin">Job 19.2</note> as <hi>Job</hi> ſaid to his naughtie friends, <hi>How long will yee vexe my ſoule, and breake me in pieces with words?</hi>
+               </p>
+               <p>
+                  <note n="*" place="margin">Note.</note> In my judgement Satan in this land hath <hi>a neſt of cockatrices egges,</hi> where for a time he ſitteth very ſtill and quyet, untill he hath <hi>hatched</hi> a number of traitours, <hi>di<g ref="char:EOLhyphen"/>veliſh Doegs,</hi> who being his chick<g ref="char:EOLhyphen"/>ens, will anone come out of his neſt, and flie abroad for the de<g ref="char:EOLhyphen"/>lating
+<pb n="18" facs="tcp:174829:12"/>and betraying of many.</p>
+               <p>
+                  <note n="*" place="margin">Note.</note> There bee in this land many profeſſours, they are not papiſts; but what then? Give them peace and plentie, and let them ſee <hi>the rivers,</hi>
+                  <note place="margin">Job. 20.17</note> 
+                  <hi>the floods, the brooks of honey and butter,</hi> and little ſhall they care for any Religion; all is one to them to be for God or for Baal; they have a <hi>ſtomach of an Oſtrich,</hi> that will be able to digeſt a ſervice book, before they loſſe a ridge of their land: before ſuch take up Chriſts Croſſe to ſuffer, they will rather <hi>take up the Tabernacle of Mo<g ref="char:EOLhyphen"/>loch,</hi>
+                  <note place="margin">Act. 7.43</note> 
+                  <hi>and the ſtar of the god Rem<g ref="char:EOLhyphen"/>phan;</hi> Such with all their faire out<g ref="char:EOLhyphen"/>ward profeſſion in dayes of peace, are but like a <hi>potſheard,</hi>
+                  <note place="margin">Pro. 23.23</note> 
+                  <hi>covered with ſilver droſſe.</hi> Others are Judas like, who firſt ſerved Chriſt for the <hi>bagge,</hi>
+                  <note place="margin">Math. 27.3</note> and afterwards ſerved his enemies for <hi>thirtie pieces of ſilver.</hi>
+                  <note n="*" place="margin">Note.</note> Thouſands if they once imagine that there is more profite by ſer<g ref="char:EOLhyphen"/>ving
+<pb n="19" facs="tcp:174829:12"/>the queene of Heaven, then the KING of Heaven, will keepe all their <hi>incenſe</hi> and <hi>drink offerings</hi> for her; who would have thought that ever Gods people would have ſpoken theſe words,
+<note place="margin">Jer. 44.18</note> 
+                  <hi>Since wee left off to burne incenſe to the queene of Heaven,</hi> that is, to the Sunne or Moone, <hi>we have beene conſumed by the ſword, and by the famine.</hi>
+               </p>
+               <p>
+                  <note n="*" place="margin">Note.</note> Thouſands in this land who have <hi>ſubſcribed with their hand un<g ref="char:EOLhyphen"/>to the LORD,</hi>
+                  <note place="margin">Iſa. 44.5</note> 
+                  <hi>and ſurnamed them<g ref="char:EOLhyphen"/>ſelves</hi> Covenanters, are this day readie, like <hi>Ahola and Aholibah,</hi>
+                  <note place="margin">Ezek. 23.5</note> to play the harlot with idoles, before that for Religion they put on the <hi>ſheep-ſkins, and the goat-ſkins,</hi>
+                  <note place="margin">Heb. 11.37</note> for to go wander up and down, or for to <hi>dwell in caves;</hi>
+                  <note n="*" place="margin">Note.</note> or to quite their dainties, for like poor bodies, to go in rags,
+<note place="margin">Job 30.4</note> and <hi>cut up mallowes by the buſhes, and juniper roots for their meate.</hi> Alas, the love of Chriſt conſtraineth few in this land to
+<pb n="20" facs="tcp:174829:13"/>have but a reſolution to ſuffer; Wee of this nation, for the moſt part, are like the church of <hi>Sar<g ref="char:EOLhyphen"/>dis,</hi>
+                  <note place="margin">Rev. 3.1.</note> wee have <hi>a name that wee live, but are dead;</hi> yea,
+<note place="margin">Eze. 24.6.</note> we are like a pot <hi>whoſe ſcumme is not gone out of it:</hi> there be few that regard that glo<g ref="char:EOLhyphen"/>rious <hi>Covenant of life and peace:</hi>
+                  <note place="margin">Mal. 2.5.</note> to many may be ſaid,
+<note place="margin">Mal. 2.8.</note> 
+                  <hi>Yee have cor<g ref="char:EOLhyphen"/>rupted the Covenant of Levi.</hi>
+               </p>
+               <p>
+                  <note n="*" place="margin">Note.</note> Fy, fy upon the treachery of many, fy upon our diviſions, <hi>Have we not all one Father?</hi>
+                  <note place="margin">Mal. 2.10</note> 
+                  <hi>Hath not one God created us?</hi> Are we not all men of one countrey? Have we not of late beene all compaſſed with the common enemie, papiſts, atheiſts, and Armenians? Have we not all ſworne one <hi>Covenant?</hi> Have wee not abjured all <hi>diviſive motions?</hi> And now, <hi>why do we deale treache<g ref="char:EOLhyphen"/>rouſly every man againſt his brother,</hi>
+                  <note place="margin">Mal. 2.10</note> 
+                  <hi>by profaining the Covenant of our Fathers?</hi> And now why are we be<g ref="char:EOLhyphen"/>come treacherous to <hi>Chriſt</hi> our huſ<g ref="char:EOLhyphen"/>band,
+<pb n="29" facs="tcp:174829:13"/>
+                  <hi>as women that breake wedlock?</hi>
+                  <note place="margin">Eze. 16.38</note> Our danger,
+<note place="margin">Gen. 4.7.</note> like <hi>Cains</hi> ſin <hi>lieth at the door:</hi> our iniquities have highly provoked God to wrath; He in a rage may juſtly ſay to this nation, as in <hi>Hoſeas</hi> time hee ſaid to <hi>Iſrael,</hi> Yee have <hi>tranſgreſſed my Covenant,</hi>
+                  <note place="margin">Hol. 8.1</note> 
+                  <hi>and treſpaſſed against my Law.</hi>
+               </p>
+               <p>If we repent not in time, he in his furie ſhall joine the bloody ſword with this threatned famine,
+<note place="margin">Ezek. 14.17</note> ſaying, <hi>Sword goe through the land.</hi> At ſuch a time as this it was heard in Iſrael, <hi>Thus ſaith the Lord,</hi>
+                  <note place="margin">Ezek. 21.9.</note> 
+                  <hi>Say a ſword, a ſword is ſharpened, and alſo fourbiſhed.</hi>
+                  <note place="margin" type="runSum">10.</note>
+                  <hi>It is ſharpened to make a ſore ſlaughter: it is fourbiſhed, that it may glitter: ſhould we then make mirth?</hi> Is this a time for laughter? We are called to lamen<g ref="char:EOLhyphen"/>tations,
+<note place="margin">Zeph. 2.2</note> for <hi>the Decree</hi> is ſo far ad<g ref="char:EOLhyphen"/>vanced againſt us, that except with all haſte wee returne to God, wee ſhall be made a ſpectacle of amaze<g ref="char:EOLunhyphen"/>ment; though theſe three men, <hi>No<g ref="char:EOLhyphen"/>ah,
+<pb n="22" facs="tcp:174829:14"/>Daniel,</hi>
+                  <note place="margin">Eze. 14.20</note> 
+                  <hi>and Job</hi> were all three this day living in <hi>Scotland,</hi> they ſhould not be able to deliver us.</p>
+               <p>Who doth not ſee moſt fear<g ref="char:EOLhyphen"/>full <hi>breaking out</hi> of monſtruous ſins in all the quarters of the land?
+<note place="margin">Hoſ. 4.2.</note> We all may well ſay with <hi>Jeremi<g ref="char:EOLhyphen"/>ah,</hi>
+                  <note place="margin">Jer. 14.7</note> 
+                  <hi>Our iniquities teſtifie againſt us, and our backſlidings are many,</hi>
+                  <note n="*" place="margin">Note.</note> yea we have <hi>preſſed God under us,</hi>
+                  <note place="margin">Amos 2.13</note> 
+                  <hi>as a Cart is preſſed that is full of ſheaves,</hi> and therefore we moſt juſtly de<g ref="char:EOLhyphen"/>ſerve to bee abhoreed of all, ſo that in our greateſt trouble none ſhould go aſide for once to <hi>aske how wee doe.</hi>
+                  <note place="margin">Jer. 15.5</note>
+               </p>
+               <p>Seeing this land is ſo crammed with numbers of men, who dayly by their <hi>diviſive motions</hi> breake Gods Covenant, let not a man ei<g ref="char:EOLhyphen"/>ther truſt in his father, or in his ſon, or in his kinſmen, or in his friends; the world is full of trea<g ref="char:EOLhyphen"/>ſon, Chriſt and his Servants are betrayed by many: of too many
+<pb n="23" facs="tcp:174829:14"/>in <hi>Scotland</hi> this day may God ſay to his Servants, as he ſaid to <hi>Eze<g ref="char:EOLhyphen"/>kiel</hi> concerning <hi>Iſrael, Son of man,</hi>
+                  <note place="margin">Eze. 22.18</note> 
+                  <hi>the houſe of Iſrael is to me become droſſe;</hi>
+                  <note n="*" place="margin">Note.</note> Many are like <hi>Jeremiahs</hi> rotten linnen girdle,
+<note place="margin">Jer. 13.10</note> which was <hi>good for nothing.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II. PART. <hi>Putting to Death.</hi>
+               </head>
+               <p>After betraying, the Lord heer ſpeaketh to his diſciples of putting ſome of them to death; <hi>Some of you,</hi> ſaid he, <hi>ſhall they cauſe to be put to death.</hi>
+               </p>
+               <p>Obſerve heere how wicked men,
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine. Hoſ. 4.8.</note> who, as the Prophet ſpeaketh, <hi>ſet their heart on iniquitie,</hi> can not be tyed by any bonds of love; they e<g ref="char:EOLhyphen"/>ver grow worſe and worſe; behold heer how after they have <hi>betrayed</hi> Gods ſervants, they can not reſt, untill they <hi>cauſe ſome of them to be put to death;</hi> under colour of freind<g ref="char:EOLhyphen"/>ſhip
+<pb n="24" facs="tcp:174829:15"/>they confer with them fami<g ref="char:EOLhyphen"/>liarly, or come to heare them, for to ſteal ſome wordes, which they may ſo wreſt, as to make them treaſonable, and the ſpeakers trai<g ref="char:EOLhyphen"/>toures; If any man ſhould defend us and ſave our life it is a father, a friend, a brother or kinſeman, or friends; <hi>a freind,</hi> ſaith Solomon, <hi>is borne for affliction,</hi>
+                  <note place="margin">Pro. 18.24</note> and <hi>there is a freind that ſticketh cloſer then a brother.</hi>
+               </p>
+               <p>
+                  <note n="*" place="margin">Note.</note> Worldly friends and kinſe<g ref="char:EOLhyphen"/>men are often very ſenſible in wrongs done to their friends in earthly maters, as carnall quarrels, O then they will <hi>hive together</hi> like <hi>Bees,</hi> and <hi>cluſter</hi> like <hi>burres;</hi> but if the cauſe of Chriſt be in queſtion, Satan draweth away unſanctified mens hearts, and of freinds turn<g ref="char:EOLhyphen"/>eth them foes, for to delate them, and <hi>cauſe ſome of them to be put to death</hi>
+                  <note place="margin">The uſe.</note>
+               </p>
+               <p>
+                  <hi>The uſe,</hi>
+                  <note n="*" place="margin">Note.</note> Let us learne that car<g ref="char:EOLhyphen"/>nall
+<pb n="25" facs="tcp:174829:15"/>bands can not tie men in ſpiri<g ref="char:EOLhyphen"/>tuall matters; neere in bloud, but not in GOD, can not have ſolide love,
+<note place="margin">Dan. 2.43</note> they are like <hi>the yron and my<g ref="char:EOLhyphen"/>rie clay</hi> of the feet of Nebuchad<g ref="char:EOLhyphen"/>nezzars image, which <hi>could not cleave one to another:</hi> By this let us know, what it is of all ſortes of friendſhip that is not grounded u<g ref="char:EOLhyphen"/>pon God.</p>
+               <p>Obſerve here againe,
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note> that Chriſt ſaith heere, <hi>they ſhall cauſe ſome of you to be put to death:</hi> ſome but not all; where wee may learne, that God calleth not all his ſervants to be <hi>Martyres:</hi>
+                  <note n="*" place="margin">Note.</note> When <hi>Peter</hi> had heard of Chriſt that in his old dayes he ſhould bee a martyre, hee incontinent enquired what ſhould become of <hi>John; Lord</hi> ſaid he,
+<note place="margin">Ioh. 21.21</note> 
+                  <hi>and what ſhall this man doe?</hi> as if he had ſaid, ſhall hee bee bound and led a<g ref="char:EOLhyphen"/>way alſo? the Lords anſwere was, <hi>what is that to thee?</hi> * The Lord in his wiſdome, permitteth ſome
+<pb n="26" facs="tcp:174829:16"/>of his ſervants to be all their dayes like <hi>Peter</hi> when hee was young, having libertie <hi>to gird themſelves and goe whether they would</hi> to bee free of fetters and priſon;
+<note place="margin">Iohn 21.18</note> Some<g ref="char:EOLhyphen"/>times hee will hide his ſervants from troubles,
+<note place="margin">Iſa. 26.20</note> 
+                  <hi>Come my people</hi> ſaid he <hi>enter into thy chambers and ſhut thy doores about thee; hide thy ſelf for a little moment, untill the indig<g ref="char:EOLhyphen"/>nation be paſt;</hi> Some of his ſervants he will laden with temporall bleſ<g ref="char:EOLhyphen"/>ſings in aboundance;
+<note place="margin">Eze. 34.15</note> 
+                  <hi>I,</hi> ſaid the Lord, <hi>will feede my flock, and I will cauſe them to lie downe all they that worſhip;</hi> as upon fat leaſures.</p>
+               <p>
+                  <note n="*" place="margin">Note.</note> All the true worſhippers of God are not alwayes poore and leane no not, the pſalmeſt ſaith, that <hi>they that be fat upon the earth ſhall eat and worſhip,</hi>
+                  <note place="margin">Pſal. 22.29</note> that is, the rich and wealthy as well as the poore ſhall be ſervants to the Lord. <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> was rich, and <hi>Jacob</hi> was rich, and <hi>Job</hi> was rich, and the three wiſe
+<pb n="27" facs="tcp:174829:16"/>men that came to worſhip Chriſt in the cratch were wealthy, they <hi>opened their treaſures and preſented unto Chriſt gifts; gold,</hi>
+                  <note place="margin">Mat. 2.11</note> 
+                  <hi>frankincenſe and myrrhe:</hi> All theſe and many moe were by God made <hi>fat upon the earth,</hi> and they did eate and did truely worſhip the Lord in all ſinceritie.</p>
+               <p>
+                  <note n="*" place="margin">Note.</note> Others againe by his divine diſpenſation, he will appoint in a poore eſtate to <hi>wander about in ſheepeskins, and goatskins,</hi>
+                  <note place="margin">Heb. 11.37</note> being like <hi>Joſhuah clothed with filthy gar<g ref="char:EOLhyphen"/>ments,</hi>
+                  <note place="margin">Zech. 3.3.</note> or like <hi>Gibionites</hi> going with <hi>old and clouted ſhooes.</hi>
+                  <note place="margin">Ioſh. 9.5</note>
+               </p>
+               <p>Others hee will put to a ſtrict forme of life, in a ſober diet,
+<note place="margin">Ier. 35.9.</note> like the <hi>Rechabites,</hi> who <hi>had no houſes to dwell in, and did drink only water:</hi> others as here he will ſuffer to be put to death; of all theſe I will ſay, <hi>this is the generation of them that ſeeke him.</hi>
+                  <note place="margin">Pſal. 24.6</note>
+               </p>
+               <p>
+                  <hi>The uſe.</hi>
+                  <note n="*" place="margin">The uſe. Note.</note> If the Lord permit
+<pb n="28" facs="tcp:174829:17"/>our lot to be ſo, that we like thoſe of my text be put to death, let us count it an honour; to die for Chriſt, is truely to die <hi>in the bed of honour.</hi> How many Souldiours for a triffle by day will goe bold<g ref="char:EOLhyphen"/>ly, and adventure their life upon the mouth of a Canon, upon a breach, or in the open field? But, O, for a kingdome, and for a king<g ref="char:EOLhyphen"/>dome in Heaven, what ſhould a man refuſe either to do or ſuffer?</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. PART. <hi>Hatred for his Names ſake.</hi>
+               </head>
+               <p>WE have heard how the Lord hath given his diſciples war<g ref="char:EOLhyphen"/>ning of three particulars evils that were to come upon them, the firſt was a <hi>betraying of them by their pa<g ref="char:EOLhyphen"/>rents, brethren kinſmen and friends,</hi> the ſecond was, a <hi>cauſing of ſome of them to be put to death,</hi> of thoſe we have ſpoken: Now the third followeth, which is an univerſall
+<pb n="29" facs="tcp:174829:17"/>hatred for Chriſts Names ſake, <hi>Ye,</hi> ſaid he, <hi>ſhall be hated of all men for my Names ſake.</hi>
+               </p>
+               <p>In theſe words I ſhall conſider theſe three things; firſt there is a hatred againſt Gods ſervants fore<g ref="char:EOLhyphen"/>told, <hi>Yee ſhall be hated,</hi> ſaid Chriſt; ſecondly, hee declareth that this hatred ſhall be very great, even u<g ref="char:EOLhyphen"/>niverſall, <hi>Yee ſhall bee hated of all men;</hi> thirdly, he ſheweth for what cauſe, <hi>For my Names ſake.</hi>
+               </p>
+               <div n="1" type="subpart">
+                  <head>1. <hi>Hatred againſt Gods Servants.</hi>
+                  </head>
+                  <p>FIrſt the Lord warneth his diſci<g ref="char:EOLhyphen"/>ples heere of a great evill; <hi>Yee</hi> ſaid he, <hi>ſhall be hated.</hi>
+                  </p>
+                  <p>Hatred is the very dregges of wrath,
+<note place="margin">Ira odium generat.</note> for great wrath at laſt tur<g ref="char:EOLhyphen"/>neth into hatred. He ſaith not un<g ref="char:EOLhyphen"/>to his Diſciples, Men ſhall bee an<g ref="char:EOLhyphen"/>grie at you, but he ſaith, <hi>Yee ſhall be hated:</hi> this is an effect of hatred, theſe that hate any, deſire neither to heare, nor to ſee them; <hi>Ammon</hi>
+                     <pb n="30" facs="tcp:174829:18"/>after hee beganne to hate <hi>Tamar</hi> could not ſuffer her to tary any longer in his ſight, but cauſed thruſt her out at <hi>doores:</hi>
+                     <note place="margin">2 Sam. 13.17 1 King. 22.8</note> King <hi>Ahab</hi> could not hear the preachings of <hi>Micajah,</hi> his reaſon was, <hi>I hate him.</hi>
+                  </p>
+                  <p>Obſerve here that Gods ſervants have this among many other trou<g ref="char:EOLhyphen"/>bles,
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note> they are <hi>hated;</hi> this is verie grievous to Gods children; <hi>Jſaack</hi> compleined that <hi>Abimelechs</hi> ſer<g ref="char:EOLhyphen"/>vants had <hi>hated him, and ſent him away;</hi>
+                     <note place="margin">Ge<g ref="char:cmbAbbrStroke">̄</g>. 26.27</note> from this puddle of hatred iſſue out the ſtreames of brawlings and debates.
+<note place="margin">Pro. 10.12</note> 
+                     <hi>Hatred,</hi> ſaith Salo<g ref="char:EOLhyphen"/>mon, <hi>ſtirreth up strifes:</hi>
+                     <note n="*" place="margin">Note.</note> The wic<g ref="char:EOLhyphen"/>ked can not ſuffer Gods children to live in peace, becauſe they hate them, and they can not but hate them, becauſe <hi>light and darkneſſe can have no communion,</hi>
+                     <note place="margin">2 Cor. 6.14, 15.</note> 
+                     <hi>Chriſt can not have concord with Belial.</hi>
+                  </p>
+                  <p>
+                     <hi>The uſe,</hi>
+                     <note n="*" place="margin">The uſe. Note.</note> Let Gods children heere learn what they have to look
+<pb n="31" facs="tcp:174829:18"/>for in this world, let them live like Angels, they ſhall not faile to bee <hi>hated,</hi> this muſt not ſeeme ſtrange unto us, when wee are abhorred by the men of the world: Gods deareſt ones have beene this dealt with, <hi>Jacob</hi> was <hi>hated of Eſau,</hi>
+                     <note place="margin">Gen. 27.41</note> and <hi>Ahab hated</hi> good <hi>Micajah;</hi> yea,
+<note place="margin">1 Kin. 22.8</note> and the world hated Chriſt himſelfe: <hi>If,</hi> ſaith Chriſt, <hi>the world hate you,</hi>
+                     <note place="margin">Ioh. 15.18</note> 
+                     <hi>yee know that it hated me before it hated you;</hi> wee muſt looke for no better, and therefore reſting upon <hi>the love of God,</hi> we muſt contemne <hi>the hatred of the world.</hi>
+                     <note n="*" place="margin">Note.</note> It is but a little matter to bee ſo hated of the world, that a man bee called after the name of Iſaacks ſecond Well, <hi>ſitnah,</hi> that is <hi>hatred,</hi>
+                     <note place="margin">Gen. 26.21</note> if ſo be that with <hi>Solomon</hi> he be Gods <hi>jedidiah,</hi> beloved of the Lord.
+<note place="margin">2 Sam. 12.25</note>
+                  </p>
+               </div>
+               <div n="2" type="subpart">
+                  <head>2. <hi>The univerſalitie of the hatred.</hi>
+                  </head>
+                  <p>YEE have heard how Chriſt hath ſaid to his ſervants, <hi>Yee ſhall be
+<pb n="32" facs="tcp:174829:19"/>hated:</hi> Secondly, it followeth that wee conſider the Univerſalitie of this hatred, <hi>Yee,</hi> ſaid he, <hi>ſhall bee hated of all men.</hi>
+                  </p>
+                  <p>Heere it may be objected, how could that be? If they were to be hated of all men, they ſhould bee hated of the godly alſo.</p>
+                  <p>
+                     <note n="*" place="margin">Note.</note> To this I anſwere briefly, By <hi>all men,</hi> wee muſt underſtand <hi>all ſort of men,</hi> whether rich or poore, noble or ignoble, men of all ranks; ſuch alſo are called <hi>all men,</hi> becauſe the moſt part of men hate GOD and his ſervants; the moſt part of the world, as yee may know, walk in the <hi>broad way,</hi>
+                     <note place="margin">Mat. 7.13</note> and all ſuch are poiſoned with hatred againſt <hi>Chriſt</hi> and his ſervants: according to this the Lord heere ſaid to his diſciples, <hi>Yee ſhall be hated of all men.</hi> In the words before Chriſt had ſpoken to his Diſciples of <hi>parents, brethren kinſmen, and friends,</hi> that would <hi>betray</hi> them, heere hee ſpeaketh of
+<pb n="33" facs="tcp:174829:19"/>others of all rankes that would hate them.</p>
+                  <p>Obſerve here,
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note> that the children of God have many adverſaries; they are ſo many, that in this text they are called <hi>all men,</hi> the enemies of the Saints heere below, may take unto themſelves the divels name, <hi>Legion,</hi> becauſe they are ma<g ref="char:EOLhyphen"/>ny: As they are many,
+<note place="margin">Mark. 5.9.</note> ſo are they moſt deſpightfull, full of hatred, moſt ready to oppreſſe Gods chil<g ref="char:EOLhyphen"/>dren in a moſt fearfull manner, to to rob and to ſpoile them, to baniſh and burne them, to head and to hang them; yea,
+<note place="margin">Heb. 11.37</note> and to <hi>ſow them aſunder;</hi> yea, and to ſell them like beaſts, as did theſe enemies of Gods people in <hi>Joels</hi> dayes,
+<note place="margin">Joel 3.3</note> 
+                     <hi>who gave a boy for a harlot, and ſold a girle for wine, that they might drink &amp; waſh their ſteps with butter</hi>
+                  </p>
+                  <p>
+                     <hi>The uſe,</hi>
+                     <note place="margin">Job 29.6 The uſe.</note> Let us not wonder to ſee many <hi>hornes</hi> in the ſides of theſe that ſerve God; if the like befall
+<pb n="32" facs="tcp:174829:20"/>to our ſelves, let us not fret; ſhall not Chriſts words be true <hi>all men?</hi>
+                  </p>
+                  <p>Againe,
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note> obſerve heere particu<g ref="char:EOLhyphen"/>larly what is the condition of <hi>Gods</hi> ſervants heere below, they are the object of hatred to the moſt part of the world.
+<note n="*" place="margin">Note.</note> If a child of God through infirmitie, fall into any ſin, the diſcourſe thereof ſhall em<g ref="char:EOLhyphen"/>pty many <hi>bowles of wine,</hi> and many who are more modeſt, have their ſecret joy for the fall of the Man, which plainly declare hatred to be in the heart; what words can bet<g ref="char:EOLhyphen"/>ter expreſſe the matter, than the words of Chriſt in this text, <hi>Yee ſhall be hated of all men.</hi>
+                  </p>
+                  <p>
+                     <hi>The uſe,</hi>
+                     <note place="margin">The uſe.</note> When we finde it ſo to<g ref="char:EOLhyphen"/>wards our ſelves, let it not ſeeme ſtrange; Chriſts words muſt bee true:
+<note n="*" place="margin">Note.</note> It ſhould be our comfort thus to be hated, for by ſuch means we may know whoſe we are.
+<note place="margin">Joh. 15.19</note> 
+                     <hi>If,</hi> ſaid Chriſt, <hi>yee were of the world, the world would love his owne; But
+<pb n="33" facs="tcp:174829:20"/>yee are not of the world, but I have choſen you out of the world, there<g ref="char:EOLhyphen"/>fore the world hateth you:</hi>
+                     <note n="*" place="margin">Note.</note> Seeing it is ſo, let us not care for the friendſhip of wicked men; away with their love, praiſe, and com<g ref="char:EOLhyphen"/>mendation: <hi>Woe unto you,</hi>
+                     <note place="margin">Luke 6.26</note> ſaid Chriſt, <hi>when all men ſhall ſpeake well of you, for ſo did their fathers unto the falſe prophets.</hi>
+                  </p>
+                  <p>Againe,
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note> whereas the Lord here ſaith to his ſervants, that they ſhall be <hi>hated of all men,</hi> I obſerve, that great is the <hi>folly,</hi> yea the <hi>furie,</hi> and <hi>madneſſe</hi> of the wicked; they hate the very men for whoſe ſake their life is ſpared: If the godly were all out of the world, the world ſhould go to an end; if theſe pil<g ref="char:EOLhyphen"/>lars were away, the very Heavens ſhould paſſe away <hi>with a noiſe.</hi>
+                  </p>
+                  <p>
+                     <note n="*" place="margin">2 Pet. 3.10</note> As the wicked are fools, ſo are they unthankfull, for they hate the men whoſe cloathes they put on, and whoſe meat they dayly
+<pb n="36" facs="tcp:174829:21"/>eat: for all the meat and cloaths in this world, by right, belong only to theſe that are godly, to whom Gods word hath ſaid,
+<note place="margin">1 Cor. 3.21</note> 
+                     <hi>all things are yours:</hi> if all things be theirs, the wicked have nothing but by uſur<g ref="char:EOLhyphen"/>pation. Againe, they are both fooles and unthankfull, in that they hate the godly, who hold Gods judgements off them,
+<note place="margin">Eze. 22.30</note> for only they <hi>make up the hedge, and ſtand in the gap before God for the land,</hi>
+                     <note place="margin">Zeph. 3.3</note> 
+                     <hi>that hee ſhould not deſtroy it;</hi> notwithſtanding of all theſe be<g ref="char:EOLhyphen"/>nefites, theſe <hi>evening wolves</hi> both hate and abhor them.</p>
+                  <p>
+                     <hi>The uſe,</hi>
+                     <note n="*" place="margin">The uſe. Note.</note> Wonder not that wicked men goe to hell, for they are all fooles, they are like mad men, who cutting the pillars of the houſe, ſhould cauſe the houſe fall down above their heads; the god<g ref="char:EOLhyphen"/>ly are the pillars of the world: As for us, let us love all theſe that love God, let them bee to us as all the
+<pb n="37" facs="tcp:174829:21"/>godly are to Chriſt <hi>Our mother,</hi>
+                     <note place="margin">Luk. 8.21</note> 
+                     <hi>our brother, and our ſiſter.</hi>
+                  </p>
+                  <p>Again,
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note> whereas Chriſt here by way of propheſie fortelleth what hatred ſhall be in the hearts of wic<g ref="char:EOLhyphen"/>ked men againſt his ſervants, I ob<g ref="char:EOLhyphen"/>ſerve Chriſts knowledge and wiſ<g ref="char:EOLhyphen"/>dome to be great;
+<note place="margin">Note.</note> we may with good reaſon ſay that he is <hi>wiſer then Daniel,</hi>
+                     <note place="margin">Eze. 28.3</note> yea wiſer then Solo<g ref="char:EOLhyphen"/>mon, who was <hi>wiſer then all men:</hi>
+                     <note place="margin">1 King 4.31</note> 
+                     <hi>then Ethan the Ezrahite and Heman and Chalcol and Darda the ſons of Mahol;</hi> all theſe, by all their great wiſedome, could ſee no thing of all that is incloſed within the hearts of men: mens hearts have no windowes for eyes of fleſh, but all is open to Gods <hi>eyes of fire;</hi>
+                     <note n="*" place="margin">Revel. 1.14</note> God in <hi>Ezekiel</hi> ſaid to his peo<g ref="char:EOLhyphen"/>ple,
+<note place="margin">Ezek. 11.5</note> 
+                     <hi>I know all the things that came into your minde, yea every one of them:</hi> The Lord heere ſaw a far off that great hatred that was to be in the hearts of all men againſt his
+<pb n="36" facs="tcp:174829:22"/>dear ſervants;
+<note n="*" place="margin">Note.</note> He ſaid not unto them in this text, that all men ſhall ſtrike you with their hands, or raile upon you with their tongues, but he forwarneth them of a perſecu<g ref="char:EOLhyphen"/>tion, incloſed in the <hi>hearts</hi> of the moſt part, even the hatred of the heart; <hi>Yee,</hi> ſaid he, <hi>ſhall be hated of all men for my names ſake.</hi>
+                  </p>
+                  <p>
+                     <hi>The uſe,</hi>
+                     <note n="*" place="margin">The uſe. Note.</note> Yee who have the name of Chriſtians, learn heer not to think it enough, if with your tongues yee raile not upon Gods ſervants, or if yee ſtrike them not: Behold heere in Chriſts account it is a <hi>perſecution,</hi> if yee <hi>hate them in your heart:</hi> See therefore yee take heed to your hearts, and that yee love theſe whom God loveth: As for your hatred, ſpend it upon your ſins, raile on them with your tongues,
+<note place="margin">Luk. 18.13</note> ſtrike upon your <hi>Breast</hi> with the Publicane, and upon your <hi>thigh</hi> with Ephraim,
+<note place="margin">Jer. 31.19</note> and never take reſt, untill yee get that holy <hi>re<g ref="char:EOLhyphen"/>venge,</hi>
+                     <pb n="37" facs="tcp:174829:22"/>which is required to bee in that <hi>godly ſorrow,</hi>
+                     <note place="margin">2 Cor. 7.11 10.</note> 
+                     <hi>that worketh re<g ref="char:EOLhyphen"/>pentance</hi> never to be repented of.</p>
+               </div>
+               <div n="3" type="subpart">
+                  <head>3. <hi>For what cauſe the godly are hated of the wicked.</hi>
+                  </head>
+                  <p>WE have heard how Chriſt did foretell to his ſervants, that they ſhould be <hi>hated:</hi> I alſo declar<g ref="char:EOLhyphen"/>unto you the univerſalitie of the hatred, <hi>Yee ſhall be hated of all men;</hi> Now thirdly it followeth that we conſider the ground and cauſe of all this hatred, it is contained in theſe words, <hi>For my names ſake;</hi> that is as much as if Chriſt had ſaid to his ſervants, <hi>yee ſhall be ha<g ref="char:EOLhyphen"/>ted</hi> for my cauſe, for the profeſſi<g ref="char:EOLhyphen"/>on, for the Goſpel, the doctrine of my name, or becauſe ye belong unto me, and becauſe your heart is <hi>ſound in my ſtatuts.</hi>
+                     <note place="margin">Pſal. 119.80</note>
+                  </p>
+                  <p>
+                     <note n="*" place="margin">The do<g ref="char:EOLhyphen"/>ctrine. Note.</note> Obſerve heere for what cauſe chiefly the wicked perſecute Gods ſervants; it is not for their faults,
+<pb n="40" facs="tcp:174829:23"/>becauſe they are lyers, and ſwear<g ref="char:EOLhyphen"/>ers, and ſwagerers, and drunkards, and harlots, or becauſe, as God up<g ref="char:EOLhyphen"/>braided his people,
+<note place="margin">Eze. 39.27</note> their way is before God <hi>as the uncleanneſſe of a rem ved Woman</hi> no not, but <hi>for my names ſake,</hi> ſaith the Lord: where wee may learne, that the Goſpel, the doctrine of Chriſts name hath many enemies.
+<note n="*" place="margin">Note.</note> Thieves and har<g ref="char:EOLhyphen"/>lots hate the light of the Sunne, yea they abhor the leaſt glaunce of a candle; the doctrine of <hi>Chriſts</hi> name is a ſhining ſermon,
+<note place="margin">Hoſ. 6.5.</note> it ſets ſin before the ſinners eyes; it checks and heweth them for it; They hateing to be <hi>reformed,</hi> hate al<g ref="char:EOLhyphen"/>ſo to bee <hi>reproved:</hi>
+                     <note place="margin">1 King 22.8</note> 
+                     <hi>Ahab hated Micajah</hi> for no other reaſon, but becauſe he preached Trueth, and would not flatter him in his ſins, as the other falſe prophets had done, <hi>Yee,</hi> ſaid Chriſt heere to his faithfull ſervants. <hi>ſhall be hated of all men for my Names ſake.</hi>
+                  </p>
+                  <pb n="41" facs="tcp:174829:23"/>
+                  <p>
+                     <hi>The</hi> 1. <hi>uſe,</hi>
+                     <note place="margin">The 1. uſe.</note> Let all Gods ſervants heere learne, whatto looke for from the moſt part of men, even hatred for Chriſts name: When ſuch things come to paſſe that ma<g ref="char:EOLhyphen"/>ny for the ſame cauſe hateus, let us not wonder:
+<note n="*" place="margin">Note.</note> The wicked that do ſuch things are ſo many, that in my text they are called <hi>all men: yee,</hi> ſaid Chriſt, <hi>ſhall be hated of all men for my names ſake:</hi>
+                     <note n="*" place="margin">Note.</note> Let the love of <hi>one man</hi> Chriſt, bee a recompence againſt the hatred of <hi>all men;</hi> let heaven granted unto us <hi>for his names ſake,</hi> encourage us to beare patientlie the hatred of all men <hi>for his names ſake;</hi> yea, when wee ſo ſuffer, let us rejoice that we are accounted worthy, to ſuffer reproach or ſhame for the ſake of his ſacred name: Let this be our joy, we have the deareſt of Gods children with us in the ſame caſe, king <hi>David</hi> ſaid,
+<note place="margin">Pſal. 119.63</note> 
+                     <hi>I am a com<g ref="char:EOLhyphen"/>panion of all them that feare thee.</hi>
+                  </p>
+                  <pb n="40" facs="tcp:174829:24"/>
+                  <p>
+                     <hi>The</hi> 2.
+<note place="margin">The 2. uſe.</note> 
+                     <hi>uſe:</hi> Seeing the godly ſuffer ſo willingly much hatred for Chriſts names ſake, and ſeeing on<g ref="char:EOLhyphen"/>ly for his names ſake we receive all our comfort,
+<note place="margin">Iohn 14.13</note> 
+                     <hi>Whatſoever yee ſhall aske in my name that will I doe,</hi> and ſeeing his name is ſo honourable that <hi>at his name every knee muſt bow:</hi>
+                     <note place="margin">Philip. 2.10</note> Let us love the name of Ieſus that <hi>plant of renowne;</hi>
+                     <note place="margin">Eze. 34.29</note> let us reſpect it &amp; honour it, that we weary not in any troubles we ſuffer for it:
+<note n="*" place="margin">Note.</note> If ſe<g ref="char:EOLhyphen"/>ven yeeres of that moſt painefull ſervice for <hi>Rachel</hi> ſeemed to <hi>Jacob</hi> but <hi>ſhort,</hi>
+                     <note place="margin">Gen. 29.20 2 Cor. 5.14</note> 
+                     <hi>becauſe he loved her,</hi> let the <hi>constraining love</hi> of Chriſt ſo ſweaten all our ſorrowes, that they may ſeeme eaſie unto us; yea, mat<g ref="char:EOLhyphen"/>ter of great joy as the Apoſtles re<g ref="char:EOLhyphen"/>joiced that they were <hi>counted wor<g ref="char:EOLhyphen"/>thy to ſuffer ſhame for his Name:</hi>
+                     <note place="margin">Acts 5.41</note>
+                     <note n="*" place="margin">Note.</note> If for Chriſts name ſake our ad<g ref="char:EOLhyphen"/>verſary ſhould write a book againſt us;
+<note place="margin">Job. 31.36</note> let us bee content with <hi>Job,</hi> to <hi>take it upon our ſhoulder, and bind it
+<pb n="41" facs="tcp:174829:24"/>as a crowne to us:</hi> yea, if for his names ſake we were bound with a chaine of yron, let that yron chain be more precious in our eyes,
+<note place="margin">Gen. 41.42</note> then that <hi>chaine of gold</hi> that <hi>Pharao</hi> put about <hi>Joſephs</hi> neck; let us in a holy bragge in ſuch a caſe ſay with S. <hi>Paul</hi> bound in yron, <hi>It is for the hope of Jſrael that I am bound with this chaine;</hi>
+                     <note place="margin">Act. 28.20</note> that chaine was to him as a moſt rare and precious jewel.</p>
+                  <p>
+                     <hi>The</hi> 3. <hi>uſe:</hi>
+                     <note n="*" place="margin">The 3. uſe. Note.</note> Let this ſerve for reproofe to all theſe, who in ſteed of ſuffering for the ſacred name of <hi>Chriſt,</hi> moſt vilely abuſe this name above their cups, or vilipend it in the ſtreets, or with profaine mer<g ref="char:EOLhyphen"/>chands have it in their ſhops, to cover their lies for to deceive the buyers in ſelling their wares; All ſuch men will never ſuffer hatred for the name of Ieſus.
+<note place="margin">The 4. uſe.</note>
+                  </p>
+                  <p>
+                     <hi>The</hi> 4. <hi>uſe:</hi> Let this alſo ſerve for reproofe to many, who are not moved for the abuſe of this glori<g ref="char:EOLhyphen"/>ous
+<pb n="44" facs="tcp:174829:25"/>name of Chriſt, for whoſe ſake they ſhould be ready to ſuffer the hatred of the moſt part:
+<note place="margin">Note.</note> If any ſpeake a word of reproach a<g ref="char:EOLhyphen"/>gainſt their name, they anone from wordes will goe to ſwordes; yea, fight in blood to the knees, but the name of Jeſus hath few friends; If ſo it be that ſome ſpeake words of reproofe, they for the moſt part are like the ſoft reproofes of <hi>Eli,</hi> whoſe wordes to his ſonnes were without life, blunt without anedge <hi>why doe yee ſuch things?</hi>
+                     <note place="margin">1 Sam. 2.23</note> 
+                     <hi>for I heare of your evill doings by all this people; Nay my ſonnes, for it is no good re<g ref="char:EOLhyphen"/>port that I heare;</hi>
+                     <note place="margin" type="runSum">25.</note>
+                     <hi>If one man ſin a<g ref="char:EOLhyphen"/>gainst another, the judge will judge him, but if a man ſin againſt the LORD, who ſhall intreat for him?</hi> How few are theſe among us, that will this day ſpeake ſo much for God? and yet Gods judgements were ſuch againſt <hi>Eli</hi> and his houſe for his ſoftneſſe in Gods quarrell,
+<pb n="45" facs="tcp:174829:25"/>that <hi>the eares of every one of them that heard of them were made to tingle:</hi>
+                     <note place="margin">1 Sam. 3.11</note> Such alſo are not ready to ſuffer hatred for the ſake of this name.</p>
+                  <p>
+                     <hi>The 5. uſe:</hi>
+                     <note n="*" place="margin">The 5. uſe. Note.</note> Laſt of all, ſee<g ref="char:EOLhyphen"/>ing wicked men hate the godly for Chriſts name ſake, let us take good heede that when wicked men hate us or perſecute us, it be not for our owne ſake, for any evill in us, yea that it be not as it is often ſaid in <hi>Amos,</hi>
+                     <note place="margin">Amos 1.3 &amp;c. 1 Pet. 2.20</note> 
+                     <hi>For three tranſgreſſions and for foure.</hi> Peter ſaith, <hi>What glory is it, if when yee be buffited for your fault, yee ſhall take it patiently,</hi> Let no man ſuffer as a malefactour, that is not <hi>thank worthy;</hi> Let us all there<g ref="char:EOLhyphen"/>fore take good heed that our afflic<g ref="char:EOLhyphen"/>tions be not for our deſervings, like the thiefe on the croſſe, who ſaid to his fellow, <hi>we are here juſtly,</hi>
+                     <note place="margin">Luk. 23.41</note> 
+                     <hi>for we receive the due reward of our deeds;</hi>
+                     <note place="margin">Hoſ. 8.3</note> So the Prophet <hi>Hoſea</hi> ſpeaking of <hi>Iſrael</hi> ſaid, <hi>Iſrael hath caſt off the
+<pb n="44" facs="tcp:174829:26"/>thing that is good; the enemie ſhall purſue him.</hi>
+                  </p>
+                  <p>Let us all therefore with all dili<g ref="char:EOLhyphen"/>gence give good heede that we be not purſued, afflicted, or hated, for <hi>caſting off the thing that is good,</hi> but that our ſufferings be for Chriſts names ſake who for our ſake <hi>pleaſed not himſelfe,</hi>
+                     <note place="margin">Rom. 15.3</note> but wil<g ref="char:EOLhyphen"/>lingly expoſed himſelf to all ſorts of reproaches and contumelies, yea and that to the ſhamefull death of the croſſe: To him be glory for ever: AMEN.</p>
+               </div>
+            </div>
+         </div>
+         <div type="sermon">
+            <pb n="45" facs="tcp:174829:26"/>
+            <head>COMFORTS, AND <hi>COVNSELL.</hi> The ſecond Sermon, preached the 19. day of March, 1643.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>LUKE XXI. 18.</hi>
+                  </bibl>
+                  <p>But there ſhall not a hair of your head periſh.</p>
+                  <bibl>
+                     <hi>Verſ. 19.</hi>
+                  </bibl>
+                  <p>In your patience there<g ref="char:EOLhyphen"/>fore poſſeſſe your ſouls</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>Y wayes,</hi> ſaid God, <hi>are not your wayes,</hi>
+               <note place="margin">Iſa. 55.8</note> 
+               <hi>and my thoughts are not your thoughts: For as the Heavens are higher then the earth,</hi>
+               <note place="margin" type="runSum">9.</note> 
+               <hi>ſo are my wayes higher then your wayes, and my thoughts then your thoughts:</hi> The wayes of men for the moſt part, have faire beginnings but end not ſo; many like <hi>Joab</hi> firſt <hi>kiſſe,</hi> and after <hi>kill,</hi> firſt <hi>ſmile;</hi>
+               <note place="margin">2 Sam 20.9</note> but after
+<pb n="48" facs="tcp:174829:27"/>
+               <hi>ſmite;</hi> the wayes of Satan with men at the beginning, is to hide all dangers untill the laſt come; when he would have allured Chriſt unto his ſervice, he ſpake to him of great gifts,
+<note place="margin">Mat. 4.8</note> even <hi>all the kingdomes of the world,</hi> if he would but fall downe and worſhip him; he ſpake not a word of hell unto him, but only of preferments unto worldly ho<g ref="char:EOLhyphen"/>nour. The wayes of God are not ſuch; Hee at the firſt meeting ſpeaketh to men of croſſes, but af<g ref="char:EOLhyphen"/>ter that, as in this text, hee cheri<g ref="char:EOLhyphen"/>ſheth them with <hi>comforts,</hi> and di<g ref="char:EOLhyphen"/>recteth them with <hi>counſels:</hi> Accor<g ref="char:EOLhyphen"/>ding to this he ſpeaketh heer to his diſciples; he had terrified them in the words preceeding with <hi>betray<g ref="char:EOLhyphen"/>ing, putting to death,</hi> and with the <hi>hatred of all men;</hi> Now in theſe words he maketh <hi>his candie to ſhine upon their heads,</hi>
+               <note place="margin">Iob. 29.3</note> hee manifeſteth his love in a great meaſure of com<g ref="char:EOLhyphen"/>fort, <hi>But,</hi> ſaith he, <hi>there ſhall not a
+<pb n="49" facs="tcp:174829:27"/>hair of your head periſh; In your pa<g ref="char:EOLhyphen"/>tience poſſeſſe yee your ſoules:</hi> here is a ſtaffe of ſteele to leane on in great troubles; <hi>I,</hi> ſaid David,
+<note place="margin">Pſal. 27.13</note> 
+               <hi>had fainted, unleſſe I had believed to ſee the goodneſſe of the Lord, &amp;c.</hi>
+            </p>
+            <p>
+               <label>The diviſion of the Text.</label> IN theſe Words there bee two parts, In the firſt part there bee comforts, <hi>But there ſhall not a hair of your head periſh;</hi> In the ſecond part there be counſels, <hi>In your pa<g ref="char:EOLhyphen"/>tience poſſeſſe your ſoules.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>I. PART. <hi>Comforts.</hi>
+               </head>
+               <p>IT was a very terrible ſpeach, which the Lord uttered unto his Diſciples, in the preceeding verſes, that they ſhould be <hi>betray<g ref="char:EOLhyphen"/>ed,</hi> and that <hi>ſome of them ſhould be put to death,</hi> and that they ſhould be <hi>hated of all men:</hi> Behold heere how he giveth unto them a ſingu<g ref="char:EOLhyphen"/>lar
+<pb n="50" facs="tcp:174829:28"/>comforts,
+<note place="margin">Jer. 8.22</note> as <hi>Balme of Gilead,</hi> for healing of their hearts that were wounded; <hi>But,</hi> ſaid he, <hi>there ſhall not a haire of your head periſh.</hi>
+               </p>
+               <p>Obſerve heere firſt what me<g ref="char:EOLhyphen"/>thod the Lord keepeth in dealing with his ſervants,
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note> their worſe things goe firſt and comforts come laſt; their eſtate is like that wine in <hi>Cana,</hi>
+                  <note place="margin">John. 2.10</note> 
+                  <hi>the beſt came laſt.</hi> Gods walk<g ref="char:EOLhyphen"/>ing towards his owne is like his comming to <hi>Elijah</hi> at the cave of Horeb, before God came in the calme, a great and ſtrong winde went before him, which rent the mountaines, and brake the rocks, and after the winde, came an <hi>earth<g ref="char:EOLhyphen"/>quake,</hi>
+                  <note place="margin">1 King 19.12</note> &amp; after the <hi>earthquake,</hi> came a fire; after theſe three were paſt, the Lord came in a ſtill ſmall voice. At the firſt, Mary Chriſts mother got a hard anſwere from him,
+<note place="margin">John 2.4</note> 
+                  <hi>wo<g ref="char:EOLhyphen"/>man, what have I to doe with thee?</hi> But a little after, he did more then ſhe required; at the firſt he called
+<pb n="51" facs="tcp:174829:28"/>the woman of Canaan a dog,
+<note place="margin">Mat. 15.27</note> but a little after he ſhew himſelf all love; the childe of God <hi>beareth Gods yoke in his youth,</hi>
+                  <note place="margin">Lam. 3.27</note> his firſt dayes are har<g ref="char:EOLhyphen"/>deſt; God caſteth downe before he raiſeth up;
+<note place="margin">1 Sam. 1.7</note> many a ſore heart had <hi>Hannah,</hi> before her Samuel came; Job ſuffered much before he could ſay, <hi>God maketh my heart ſoft.</hi>
+                  <note place="margin">Job 23.16</note>
+                  <note n="*" place="margin">Note. Zech. 1.19</note> The Prophet <hi>Zechariah</hi> ſaw firſt <hi>foure hornes ſcattering Judah,</hi> but after anone came the comforts of the <hi>Carpenters</hi> that came to fray them.</p>
+               <p>
+                  <hi>The uſe,</hi>
+                  <note n="*" place="margin">The uſe. Note.</note> When troubles ly heavy upon us, let us comfort our ſelves in this, better is coming; a foule <hi>Februar</hi> is a comfort to the labourer, becauſe he looketh for a dry <hi>March:</hi> Sanctified afflictions in youth, ſhould be a comfort, telling us, that God is comming in the calme: The way to the wealthy place is to <hi>paſſe through fire and wa<g ref="char:EOLhyphen"/>ter;</hi>
+                  <note place="margin">Pſal. 66.12</note> the Lord ſaid to his two diſ<g ref="char:EOLhyphen"/>ſciples,
+<pb n="52" facs="tcp:174829:29"/>
+                  <hi>O fooles!</hi>
+                  <note place="margin">Luke 24.26.</note> 
+                  <hi>Behoved it not Chriſt to ſuffer all theſe things, and ſo to enter into his glory?</hi> Gaping of wounded men,
+<note place="margin">Iſa. 9.5</note> and <hi>tumbling of gar<g ref="char:EOLhyphen"/>ments into blood,</hi> goe before the ſongs of victory: Chriſt himſelfe was <hi>hanged</hi> on a croſſe on earth, before he <hi>was honoured</hi> on a throne in Heaven; He was firſt caſt down on his face upon the earth, yea de<g ref="char:EOLhyphen"/>ſeended into hell, before hee was ſet at the right Hand of GOD in Heaven.
+<note n="*" place="margin">Note.</note> The Gardener when hee ſetteth a tree, at the firſt ſet<g ref="char:EOLhyphen"/>ting downe hee ſhaketh it to and fro, and treadeth downe its roots with great force, for to faſten it the more ſurely; ſo doth GOD with his deareſt ſervants, that Hee may <hi>cauſe thoſe that come of Jaakob to take root.</hi>
+                  <note place="margin">Jſa. 27.6</note>
+               </p>
+               <p>It is for thoſe that goe to hell to receive all their <hi>good things</hi> on earth:
+<note place="margin">Luk. 16.25</note> Job ſpeaking of the Wic<g ref="char:EOLhyphen"/>ked, ſaid <hi>They have no changes;</hi> wic<g ref="char:EOLhyphen"/>ked
+<pb n="53" facs="tcp:174829:29"/>mens eyes <hi>stand out with fat<g ref="char:EOLhyphen"/>neſſe:</hi>
+                  <note place="margin">Pſal. 73.7</note> the portion of Kings meate is <hi>a defiling thing,</hi>
+                  <note place="margin">Dan. 1.8</note> beaſts that goe in fatteſt paſtures are neereſt the ſlaughter: The portion of Gods children is not heere, their reſt is in another place, their laſt ſhall be beſt;
+<note place="margin">Pſal. 34.19</note> If <hi>many be the troubles of the righteous,</hi> within a ſhort ſpace <hi>the Lord ſhall deliver him out of them all;</hi> yea in the midſt of the fierie tryall wee ſhall ſtill bee in ſafetie, though in ſome hours of tempta<g ref="char:EOLhyphen"/>tion wee may bee as David like a <hi>bottell in the ſmoak,</hi>
+                  <note place="margin">Pſal. 119.83 Pſal. 23.4 Pſal. 119.109. Pſal. 68.1 Pſal. 37.37</note> or in <hi>deaths val<g ref="char:EOLhyphen"/>ley,</hi> having our <hi>ſoule in our hand;</hi> but O tarry a little, and God will <hi>ariſe,</hi> and help his ſervants, <hi>The end of that man is peace:</hi> troubled Da<g ref="char:EOLhyphen"/>vid ſaid to God with great bold<g ref="char:EOLhyphen"/>neſſe,
+<note place="margin">Pſal. 73.24</note> 
+                  <hi>Afterward thou ſhalt receive mee to glory;</hi> let this be like a ſtaffe of ſteele for our faith to lean upon in a ſtormie day; Gods children muſt be bold,
+<note place="margin">Job 18.14</note> not <hi>ſubjects</hi> to the <hi>King of terrours.</hi>
+               </p>
+               <pb n="54" facs="tcp:174829:30"/>
+               <p>Let us now come to the parti<g ref="char:EOLhyphen"/>cular comfort mentioned in my text: the Lord here ſaith, that <hi>there ſhall not a haire of your head periſh.</hi>
+                  <note n="*" place="margin">Note.</note> The wicked are mighty and cru<g ref="char:EOLhyphen"/>ell, they as on horſe back <hi>ride over the heads of the godly,</hi>
+                  <note place="margin">Pſal. 66.12</note> yet are they not able to carry a hair with them, but by Gods permiſſion; <hi>not a hair of your head,</hi> ſaid Chriſt, <hi>ſhall periſh.</hi>
+               </p>
+               <p>Obſerve heere that the LORD hath a ſingular regard to all thoſe that love him;
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note> they are to him as <hi>the apple of his eye,</hi>
+                  <note place="margin">Zech. 2.8</note> hee moſt care<g ref="char:EOLhyphen"/>fully keepeth them:
+<note n="*" place="margin">Note.</note> Hee is not like idoles, that care not for their worſhippers,
+<note place="margin">Hoſ. 8.5</note> 
+                  <hi>Thy Calfe, O Samaria hath caſt thee off,</hi> but God will ne<g ref="char:EOLhyphen"/>ver caſt off his ſervants; Baal did not regard the cryes of his prieſts, though they <hi>cryed from morning unto noone,</hi>
+                  <note place="margin">1 King 18.26.</note> 
+                  <hi>and cut themſelves with knives,</hi> but the Lord alwayes re<g ref="char:EOLhyphen"/>gardeth his ſervants, his eyes are ſtill upon all the haires of their
+<pb n="55" facs="tcp:174829:30"/>head. The tender hearted mother and nurſe are very carefull, to keep their young ſuckling, yet their care faints, when they are over<g ref="char:EOLhyphen"/>come with ſleepe: but hee who is above, and keepeth his ſervants, <hi>doth neither ſlumber nor ſleep;</hi> ma<g ref="char:EOLhyphen"/>ny hairs may fall from the childe, and the mother never know what becometh of them, but a haire of our head falleth not to the ground but he hath an eye on it:
+<note n="*" place="margin">Note.</note> This is no <hi>hyperbolick ſpeach,</hi> for the Lord as he is <hi>omnipotent</hi> to do all things, ſo is hee <hi>omniſcient</hi> to know all things, even to the number of all the haires of all the heads in the world; he knoweth the full num<g ref="char:EOLhyphen"/>ber of the ſand, and of the drops of the ſea, as perfectly as we know how many eyes wee have in our head; he preſerveth us ſo, that the leaſt things that concerne us ſhall not <hi>periſh.</hi>
+               </p>
+               <p>The Angel Gabriel ſaid well to
+<pb n="56" facs="tcp:174829:31"/>Mary,
+<note place="margin">Luk. 1.37</note> 
+                  <hi>nothing ſhall bee unpoſſible with God;</hi> no not, were it to make a virgine to conceive a Son, or a <hi>Camel to go thorow a needle eye;</hi>
+                  <note place="margin">Markio. 25 Job 37.18</note> He who hath <hi>ſpread cut the skie, which is ſtrong, and as a molten looking glaſſe,</hi> Hee with whom is <hi>terrible Majestie;</hi>
+                  <note place="margin" type="runSum">22.</note>He who is <hi>almightie and excellent in power,</hi>
+                  <note place="margin" type="runSum">23.</note>can moſt eaſily preſerve his ſervants, ſo that <hi>not a haire of their head ſhall periſh,</hi> no not in a moſt bloody time, even when it is ſaid of the ſword,
+<note place="margin">Eze. 21.15</note> 
+                  <hi>Ah it is made bright, it is wrapt up for the ſlaughter.</hi>
+               </p>
+               <p>When God had ſaid,
+<note place="margin">Ier. 30.7</note> 
+                  <hi>It is even the time of Jacobs trouble,</hi> he in the ſame verſe ſubjoineth, <hi>but hee ſhall be ſaved out of it;</hi> Mans extremitie is Gods opportunitie:
+<note place="margin">Jer. 30.6</note> 
+                  <hi>Aske yee now,</hi> ſaid the Lord, <hi>whether a man doth travaile with childe? Wherefore doe I ſee every man, with his hands on his loines, as a woman in travaile, and all faces are turned into paleneſſe?</hi>
+                  <pb n="57" facs="tcp:174829:31"/>Behold terrible things, and very ſtrange, every man in trouble as a woman in travaile, but in the eight verſe followeth a faire deliverance, <hi>I,</hi> ſaid the Lord,
+<note place="margin" type="runSum">8.</note>
+                  <hi>will breake the yoke from off thy neck:</hi> See how the Lord was ready to ſave his ſervants in greateſt danger, ſo that not a haire of their head did periſh: When Je<g ref="char:EOLhyphen"/>remiah was in priſon among mire, the Lord ſent unto him an Ebed<g ref="char:EOLhyphen"/>melech, with <hi>old caſt clouts,</hi>
+                  <note place="margin">Ier. 38.12</note> 
+                  <hi>and rotten ragges, to put under his arme holes,</hi> to draw him out of the dun<g ref="char:EOLhyphen"/>geon; the Lord would not ſuffer his ſervant to periſh.</p>
+               <p>
+                  <hi>The uſe:</hi>
+                  <note n="*" place="margin">The uſe. Note. Pſal. 119.122.</note> Let this ſerve for com<g ref="char:EOLhyphen"/>fort unto you; If yee ſerve God well, Hee will bee <hi>ſuretie for you for good,</hi> and likewiſe will ſafely keepe you, and all that ye have in theſe dayes of warre, he will pre<g ref="char:EOLhyphen"/>ſerve your husbands and ſons, that they be not killed, your wives that they be not abuſed, your virgins
+<pb n="58" facs="tcp:174829:32"/>that they be not deflored, you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> houſes that they bee not ſpoiled, your cattell, and coffers that the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be not carried away; yea, more<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yee faithfully ſerve him, <hi>their ſha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> not a haire of your head periſh;</hi> no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a <hi>haire</hi> of Shadrach was burnt in the fiery furnace;
+<note place="margin">Dan. 3.27</note> no King can do the like to any at his ſervice: God only is a <hi>ſhelter and ſtrong tower</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> defence;
+<note place="margin">Pſal. 61.3</note> none but God can keep a man that he <hi>periſh not,</hi> his preſer<g ref="char:EOLhyphen"/>vation reacheth to the ſmalleſt hai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our head:
+<note n="*" place="margin">Note.</note> And to ſpeake in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> words of a Kings oath,
+<note place="margin">Ier. 38.16</note> 
+                  <hi>As the Lord liveth that made us this ſoule,</hi> there ſhall not a haire of your head pe<g ref="char:EOLhyphen"/>riſh; This is moſt eaſie to him that by his hand of power <hi>overturneth the mountains by the roots.</hi>
+                  <note place="margin">Ier. 28.9</note>
+               </p>
+               <div type="subpart">
+                  <head>An Objection.</head>
+                  <p>HEere it may be objected and ſaid by a carnall man, that more then the haires of the heads of Gods ſervants periſh; for many
+<pb n="59" facs="tcp:174829:32"/>good men are ſlaine and murde<g ref="char:EOLhyphen"/>red: In the words preceeding the Lord himſelf ſaid, <hi>ſome of you ſhall they cauſe to be put to death,</hi> many good mens houſes are ſpoiled, their cattell like Jobs <hi>oxen and aſſes</hi> are carried away,
+<note place="margin">Job 1.13</note> how then is it heere ſaid, that <hi>there ſhall not a haire of their head periſh:</hi>
+                     <note n="*" place="margin">Note.</note> Con<g ref="char:EOLunhyphen"/>cerning the comfort of this text, I may ſay as Ezekiel ſaid to God <hi>Ah Lord God, they ſay of me,</hi>
+                     <note place="margin">Eze. 20.49</note> 
+                     <hi>doeth he not ſpeake parables</hi> or riddles? Wee know not what hee meanes, while he ſaith, that God ſo keep<g ref="char:EOLhyphen"/>eth mens haires, that not one of them ſhall periſh,
+<note place="margin">1 Cor. 9.9</note> 
+                     <hi>Doth the LORD care for oxen?</hi> ſaith the Apoſtle, ſo doe many ſay, <hi>Doth the Lord care for a haire of a mans head?</hi>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <head>The Anſwere.</head>
+                  <p>THE Prophet Zechariah teach<g ref="char:EOLhyphen"/>ing men to bee awfully affe<g ref="char:EOLhyphen"/>cted to the great Majeſtie of God, cryed out, <hi>Bee ſilent,</hi>
+                     <note place="margin">Zech. 2.13</note> 
+                     <hi>O all fleſh be<g ref="char:EOLhyphen"/>fore
+<pb n="60" facs="tcp:174829:33"/>the Lord,</hi> yet notwithſtanding many with Job in his fit of miſcon<g ref="char:EOLhyphen"/>tentment, muſt needes fill their mouths with arguments and diſ<g ref="char:EOLhyphen"/>pute with the Lord, as though hee were bound to give them a compt of all his doings.</p>
+                  <p>The Lord in Hoſea ſaid a feare<g ref="char:EOLhyphen"/>full word,
+<note place="margin">Hoſ. 4.6</note> 
+                     <hi>My people are deſtroyed for lack of knowledge;</hi> Ignorance is the deſtruction of many; ignorance maketh men to thinke when they ſee others ſlaine, robbed, and ſpoi<g ref="char:EOLhyphen"/>led for the Goſpel, that they and all their eſtate are periſhed:
+<note place="margin">Micah 2.7</note> 
+                     <hi>O thou,</hi> ſaid Micah, <hi>that art named the houſe of Jacob, is the Spirit of the LORD ſtraitened?</hi> O thou that art named a Chriſtian, is the arme of the Lord ſhortned, that he can not work and ſave us, ſo that the leaſt haire of our head periſh not?</p>
+                  <p>To come to the objection, I ſay that it is but a blinde objection, theſe that have the eye of faith do
+<pb n="61" facs="tcp:174829:33"/>clearely ſee that God preſerveth his owne, <hi>that not a haire of their head doth periſh::</hi> Thy husband is he ſlaine? thy children are they kil<g ref="char:EOLhyphen"/>led for Chriſts names ſake? thou muſt not therefore eſteeme that they are periſhed; faith will not ſpeake ſo:
+<note n="*" place="margin">Note.</note> If the King ſhould come, and take a beggars childe in in this Province of <hi>Cliddiſdaile,</hi> and make him a Barron in <hi>Barren<g ref="char:EOLhyphen"/>thorow,</hi> the nixt adjacent Province, would the beggar ſay that his ſon were periſhed? would he not rather ſay with Jacob, hearing of Joſephs honour in Egypt; <hi>It is enough, I will goe and ſee my ſon?</hi>
+                     <note place="margin">Gen. 45.28</note> So David ſaid of his dead ſon, <hi>I will go to him:</hi>
+                     <note place="margin">2 Sam. 12.23.</note> what I pray you is the diſtance of the heaven from the earth to a live<g ref="char:EOLhyphen"/>ly faith? It is but as it were to goe from one Province to another; yea, but from one ſide of the ſtreete to another:
+<note n="*" place="margin">Note.</note> When ye marry your daughters they goe from you; if
+<pb n="62" facs="tcp:174829:34"/>yee heare that they are well with their good Husbands, yee are glad, yee will not thinke them pe<g ref="char:EOLhyphen"/>riſhed, becauſe they are gone a little from the houſe: Now all the god<g ref="char:EOLhyphen"/>ly that are ſlaine for Gods name, are but gone as it were to the other ſide of the ſtreet, to their moſt worthie husband Chriſt who hath given to them in the heavens <hi>right to the tree of life,</hi>
+                     <note place="margin">Rev. 22.14</note> where continual<g ref="char:EOLhyphen"/>ly they ſee God face to face, that face wherein is <hi>fulneſſe of joy;</hi>
+                     <note place="margin">Pſal. 16.11</note> open a little the eyes of your faith, and ye ſhall find all this to be ſo as I ſpeak: none properly periſh but theſe who after death, are damned to be burnt in hell fire: to him that goeth to heaven may well be ſaid of life eternall, that which God ſaid to <hi>Ieremiah</hi> of his naturall life <hi>Thy life ſhall be for a prey to thee.</hi>
+                     <note place="margin">Ier. 39.18</note>
+                  </p>
+                  <p>As for your worldly goods and riches; yee will ſay, the bloodie and barbarous man of war, hath
+<pb n="63" facs="tcp:174829:34"/>ſpoiled me, and taken all away, and ſo where is now the promiſe, <hi>that not a haire of our head ſhall periſh?</hi>
+                  </p>
+                  <p>To this I anſwere, let your ſlee<g ref="char:EOLhyphen"/>ping faith waken, what ſay yee? is all your riches periſhed, becauſe all hath beene taken away for Chriſts name ſake? I ſay it is not periſhed:
+<note n="*" place="margin">Note.</note> Tell me if when yee have lent a thouſand pounds to a worthie wealthie faithfull man, bound faſt by his obligation, think ye that all your money is <hi>periſhed,</hi> becauſe it is out of your hand? I thinke not; But ſo it is, all that is taken from you <hi>for Chriſts names ſake</hi> is in a better hand, it is lent unto Chriſt, who hath given an obligation ſealed with his blood, that yee ſhall be ſurely payed with ſuch an increaſe, that the greateſt uſurer in the land never required the like; even a hundreth for one: yea, more then all, everlaſting life. If thou would ſee the obli<g ref="char:EOLhyphen"/>gation,
+<pb n="64" facs="tcp:174829:35"/>behold it is heere in readi<g ref="char:EOLhyphen"/>neſſe, regiſtrate in the Bookes of Counſell of heaven,</p>
+               </div>
+               <div type="subpart">
+                  <head>Chriſts Obligation <hi>registrate.</hi>
+                  </head>
+                  <epigraph>
+                     <q>
+                        <bibl>Matth. XIX. Verſe 29.</bibl> 
+                        <hi>BEhold,</hi> ſaid one to Chriſt, <hi>wee have forſaken all, and followed thee, what ſhall wee have therefore?</hi>
+                     </q>
+                  </epigraph>
+                  <p>Now follow the words of the ob<g ref="char:EOLhyphen"/>ligation.</p>
+                  <p>Jeſus ſaid, <hi>Every one that hath forſaken houſes, or brethren, or ſiſters, or father, or wife, or children, or lands, for my Names ſake, ſhall re<g ref="char:EOLhyphen"/>ceive an hundred fold, and ſhall in<g ref="char:EOLhyphen"/>herite everlasting life.</hi>
+                  </p>
+                  <p>
+                     <note n="*" place="margin">Note.</note> Let theſe who eſteeme this to bee but a <hi>Banquerupts</hi> Bond, keepe well their houſes and lands for themſelves; it may bee that ſhortly they loſſe ſuch things for
+<pb n="65" facs="tcp:174829:35"/>the ſake of ſome other, who will never repare their loſſes, ſo that both they and all that they have, ſhall <hi>periſh.</hi>
+                     <note n="*" place="margin">Note.</note> Gods wrath ſhall not ſpare their very haire; his ra<g ref="char:EOLhyphen"/>ſor of wrath like that hired raſor in Iſaiah,
+<note place="margin">Iſa. 7 20.</note> ſhall <hi>ſhave the head and haire of the feet, and ſhall alſo con<g ref="char:EOLhyphen"/>ſume the beard,</hi> even to the verie ſtumps, hair and all ſhall periſh.</p>
+                  <p>As for you who have faith to believe, yee may heere clearly know that GODS children, and all that they have, are well kept, yea <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o that a haire of their head ſhall not <hi>periſh:</hi>
+                     <note place="margin">Joh. 20.27</note> To all the godly let it be heere ſaid as Chriſt ſaid to Thomas <hi>Bee not faithleſſe, but be<g ref="char:EOLhyphen"/>lieving.</hi>
+                     <note n="*" place="margin">Note.</note> I may well lay of Chriſt when he promiſeth any thing, that which Naomi ſaid to Ruth of Bo<g ref="char:EOLhyphen"/>oz, <hi>Sit ſtill,</hi>
+                     <note place="margin">Ruth. 3.18</note> 
+                     <hi>untill thou know how the matter will fall, for the man will not be in reſt, untill he have finiſhed the thing:</hi> nay, he will doe much more
+<pb n="66" facs="tcp:174829:36"/>then hee promiſeth heere; to ſave us that wee periſh not, to preſerve us from evill, is a very great bleſ<g ref="char:EOLhyphen"/>ſing, but more, the Lord will give us gifts, even grace heere, and glo<g ref="char:EOLhyphen"/>ry heereafter.
+<note n="*" place="margin">Note.</note> After that King David had ended his feſtivall ſa<g ref="char:EOLhyphen"/>crifice,
+<note place="margin">1 Chro. 16.3.</note> 
+                     <hi>Hee dealt to every one of I<g ref="char:EOLhyphen"/>ſrael, both man and woman, to every one a loaf of bread, and a good piece of fleſh, and a flagon of wine;</hi> What was all that? But O the gifts that God will deale to every one that ſerve Him faithfully! After this life all ſuch ſhall ſit upon Thrones: Crownes and Kingdomes in Hea<g ref="char:EOLhyphen"/>ven are Gods gifts prepared for e<g ref="char:EOLhyphen"/>very man, and every woman, that willingly ſuffer on earth tribulati<g ref="char:EOLhyphen"/>on for his Names ſake: ſuch ſhall not only not periſh, but ſhall for ever enjoy pleaſures, which eye never ſaw, nor ear heard, nor ever could enter into the heart of man.</p>
+                  <p>
+                     <note n="*" place="margin">Note.</note> King Ahaſuerus queſtion to Ha<g ref="char:EOLhyphen"/>man
+<pb n="67" facs="tcp:174829:36"/>was,
+<note place="margin">Eſther 6.6</note> 
+                     <hi>What ſhall be done to the man whom the king delighteth to ho<g ref="char:EOLhyphen"/>nour?</hi> All the greateſt things that Haman could invent, and ſay, were theſe, <hi>Let the royall apparell bee brought,</hi>
+                     <note place="margin" type="runSum">8.</note>
+                     <hi>which the King uſeth to weare, and the horſe that the King ri<g ref="char:EOLhyphen"/>deth upon, and the Crown royall which is ſet upon his head, and by one of the Princes bring him on horſebacke through the ſtreets of the citie, and proclame before him Thus ſhall it be done to the man whom the King de<g ref="char:EOLhyphen"/>lighteth to honour:</hi> What were all theſe things, I pray you? an appa<g ref="char:EOLhyphen"/>rell, and a horſe, and a crown, and a proclamation? that was all; all theſe things were like that meate that Chriſt ſpake off, when he ſaid <hi>Labour not for the meat that periſh<g ref="char:EOLhyphen"/>eth:</hi>
+                     <note place="margin">John 6.27</note> all theſe things are long ſince paſſed away, the horſe, and the crowne, and the royall apparell, and all that faire ſhew, is paſt and periſhed, like a glauncing ſpark of
+<pb n="68" facs="tcp:174829:37"/>fire, which flying from a Smiths ſtithie dieth in the flight.</p>
+                  <p>But O, that which Chriſt ſhall give to theſe that ſuffer affliction for his names ſake, ſhall never pe<g ref="char:EOLhyphen"/>riſh; hee ſhall give unto them not a <hi>loafe,</hi>
+                     <note place="margin">1 Chron. 16.3. 1 Pet. 5.4</note> as David gave to his ſub<g ref="char:EOLhyphen"/>jects, but a <hi>life</hi> that is eternall. <hi>A crowne that fadeth not away.</hi> John ſayeth,
+<note place="margin">Rev. 22.4</note> that <hi>they ſhall ſee his face, and his name ſhall bee in their fore<g ref="char:EOLhyphen"/>heads,</hi> as a mark crying, <hi>This ſhall it be done to the man whom Chriſt delighteth to honour.</hi>
+                     <note n="*" place="margin">Note.</note> But woe to the wicked,
+<note place="margin">Obad. 1.4</note> for <hi>though they ſet their neſt among the starres,</hi> both they and all that they have ſhall periſh; their ſoule ſhall periſh, their body ſhall periſh, and their eſtate alſo ſhall periſh. * Gods wrath, as I ſaid before, ſhall not ſpare their very haire; his <hi>raſor</hi> of wrath, like that raſor in Iſaiah, <hi>ſhall ſhave the head, and the hair of the feet, and ſhall alſo conſume the beard,</hi> even
+<pb n="69" facs="tcp:174829:37"/>to the very ſtumps, haire and all ſhall periſh: they have not <hi>a Jeſus</hi> for to ſave; they will looſe nothing for his Names ſake, and for their ſake he will ſave nothing of theirs, and ſo at laſt they ſhall looſe all; though they were Kings and Prin<g ref="char:EOLhyphen"/>ces, the Lord in furie ſhall cry,
+<note place="margin">Ezek. 21.27</note> 
+                     <hi>I will overturn, overturn, overturn</hi> all their wealth, their honour,
+<note place="margin">Zepha. 3.8</note> and their majeſtie: <hi>All the earth,</hi> ſaid the Lord, <hi>ſhall be devoured with the fire of my jealouſie;</hi> then all the worm-eaten glory of the wicked, with all their <hi>good things,</hi>
+                     <note place="margin">Luk. 16.25</note> and great deſignes, ſhall anone wither away,
+<note place="margin">Jon. 4.7.</note> like Jonahs <hi>gourd.</hi>
+                     <note n="*" place="margin">Note.</note> As they ſew the winde,
+<note place="margin">Hoſ. 8.7</note> ſo ſhall they <hi>reape the whirlewinde, which hath neither ſtalk, nor bud that can yeeld any meal;</hi>
+                     <note place="margin">Hoſ. 9.11</note> as it was ſaid of Ephraim, <hi>All their glory ſhall flee away like a bird.</hi>
+                  </p>
+                  <p>But as for all the godly, albe<g ref="char:EOLhyphen"/>it by the wicked they be <hi>ſtoned, and ſowne aſunder,</hi>
+                     <note place="margin">Heb. 11.37</note> 
+                     <hi>and ſlaine with
+<pb n="70" facs="tcp:174829:38"/>the ſword;</hi>
+                     <note place="margin">Dan. 3.20</note> or with Shadrah, be caſt into a <hi>fierie furnace,</hi> or with Da<g ref="char:EOLhyphen"/>niel into a <hi>Lions den,</hi>
+                     <note place="margin">Dan. 6.16</note> the words of my text ſhall ſtill remaine true, <hi>not a haire of their head ſhall periſh:</hi> The Lord hath a great reſpect un<g ref="char:EOLhyphen"/>to his ſervants;
+<note place="margin">Hoſ. 14.5</note> 
+                     <hi>I,</hi> ſaid he, <hi>will be as the dew unto Iſrael, he ſhall grow as the lillie, and caſt foorth his roots as Lebanon:</hi> Who is wiſe, and he ſhall underſtand theſe things? <hi>My people</hi> ſaith the Lord,
+<note place="margin">Ioel. 2.26</note> 
+                     <hi>ſhall never be aſha<g ref="char:EOLhyphen"/>med,</hi> not a hair of their head ſhall periſh.
+<note n="*" place="margin">Note.</note> Away with that doubt<g ref="char:EOLhyphen"/>ing <hi>If</hi> of Eſther,
+<note place="margin">Eſth. 4.16</note> 
+                     <hi>If I periſh, I pe<g ref="char:EOLhyphen"/>riſh;</hi> The Heavens and the Earth ſhall paſſe away,
+<note place="margin">Plal 102.26</note> 
+                     <hi>They,</hi> ſaith the Pſalmiſt, <hi>ſhall periſh,</hi> but not a haire of our head ſhall periſh.</p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <head>THE SECOND PART. <hi>Chriſts Counſell and Direction.</hi>
+               </head>
+               <p>IN the ſecond and laſt part of this text, the Lord after he hath both let his ſervants ſee their trou<g ref="char:EOLhyphen"/>bles, and alſo their preſervation,
+<pb n="71" facs="tcp:174829:38"/>he giveth them a counſell and di<g ref="char:EOLhyphen"/>rection what they have to doe in their greateſt ſtraite; <hi>In your pati<g ref="char:EOLhyphen"/>ence,</hi> ſaith he, <hi>poſseſſe yee your ſouls.</hi>
+               </p>
+               <p>There be here two things requi<g ref="char:EOLhyphen"/>red, firſt, that we have <hi>patience;</hi> ſecondly, that <hi>in our patience wee poſseſse our ſoules;</hi> David ſaid well,
+<note place="margin">Pſal. 119.165.</note> 
+                  <hi>great peace have they which love thy law.</hi>
+                  <note place="margin">
+                     <hi>Hupomone</hi> Suſtenta<g ref="char:EOLhyphen"/>tio qua impetus &amp; incurſus a<g ref="char:EOLhyphen"/>licujus rei ſuſtinetur.</note> As for patience, the word in the originall ſignifieth a remaining ſtill under any thing, a willing undergoing of any difficulty; this is done when a man flings not like a beaſt to ſhake off the burden, but with all ſubmiſſion tarrieth under the burden, untill God give a deli<g ref="char:EOLhyphen"/>verance, like a worthy watch who goeth not from his place untill his hour come, and that another come to fill his roome: In a word, pati<g ref="char:EOLhyphen"/>ence is a grace of God, whereby a man in trouble, humby meekly, and ſubmiſſely taketh in good part wrongs and injuries, and withall,
+<pb n="72" facs="tcp:174829:39"/>waiteth untill the good hand of God come to his help
+<note n="*" place="margin">Note.</note> It is ſuch a glorious grace, and ſo pleaſant unto God, that he writeth himſelf <hi>the God of patience.</hi>
+                  <note place="margin">Rom. 15.5</note>
+               </p>
+               <p>Wee have heard what patience is; Now it followeth that we con<g ref="char:EOLhyphen"/>ſider what we have to do with our patience. Chriſts counſell and di<g ref="char:EOLhyphen"/>rection heer is, that <hi>in our patience we poſſeſſe our ſoules.</hi> To poſſeſſe properly ſignifieth to have a thing in our power;
+<note place="margin">Poſſideo, qui poteſt ſedere, id eſt, ſedem vel habita<g ref="char:EOLhyphen"/>tionem in loco ali<g ref="char:EOLhyphen"/>quo collo<g ref="char:EOLhyphen"/>care.</note> The Latine word from which this Engliſh word is driven, ſignifieth a power to ſit ſtill for to enjoy that which we have: ſo to poſſeſſe our ſouls in patience, declareth that a firme and ſtable patience is heere commanded, which a man ſhould as ſtrongly and carefully keepe as his deareſt earthly poſſeſſion; This the Lord heer required of his ſervants, when he ſaid unto them, <hi>In your patience poſſeſſe yee your ſoules,</hi> as if he had
+<pb n="73" facs="tcp:174829:39"/>ſaid, Strive to be maſter over your ſelves, that yee may take in good part all ſorts of croſſes and cala<g ref="char:EOLhyphen"/>mities.</p>
+               <p>This is a very powerfull forme of ſpeach; I read in Scripture di<g ref="char:EOLhyphen"/>vers ſpeaches concerning patience; the pſalmiſt ſaith,
+<note place="margin">Pſal. 37.7</note> 
+                  <hi>Rest in the Lord and waite patiently for him,</hi> this is a very ſweet ſaying, The poor ſer<g ref="char:EOLhyphen"/>vant that was not able to pay his maſters rent cryed pitifully,
+<note place="margin">Mat. 18.26</note> 
+                  <hi>Lord have patience with me:</hi>
+                  <note n="*" place="margin">Note.</note> But in all the ſcriptures, yee will not finde a more powerfull ſpeach then this, <hi>In your patience poſſeſſe your ſouls;</hi> that is, let your ſouls be poſſeſſed with patience, or have patience in your hearts as a poſſeſſion, that is, keep patience as faſt as a man main<g ref="char:EOLhyphen"/>taineth his poſſeſſion,
+<note place="margin">Obad. 1.17</note> or as it was ſaid of Jacob, that hee <hi>poſſeſsed his poſſeſſions;</hi> what Chriſt heere com<g ref="char:EOLhyphen"/>mands he gives unto his ſervants.
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note>
+               </p>
+               <p>Obſerve heer the great mercy
+<pb n="74" facs="tcp:174829:40"/>of GOD towards his ſervants, whereas the wicked in affliction <hi>pine away in their ſins,</hi> and fret out their hearts with comfortles grief. Gods ſervants by his grace in grea<g ref="char:EOLhyphen"/>teſt calamities, <hi>poſseſse their ſouls in patience;</hi> in whatſoever eſtate they be in, they are content, in poverty in nakedneſſe, in priſon, in perſecu<g ref="char:EOLhyphen"/>tion and baniſhment, they beare all patiently; in all theſe things they are <hi>more then conquerours;</hi> it is the deſire of a couragious Captain to bee in ſuch a war, wherein his va<g ref="char:EOLhyphen"/>lour may moſt appear: ſo patience delighteth in hardneſſe;
+<note place="margin">Dan. 1.12</note> Pulſe by Gods bleſſing is more pleaſant to a godly Daniel, then the Kings portion; royall dainties are of a de<g ref="char:EOLhyphen"/>filing power:
+<note place="margin">Dan. 3.20</note> 
+                  <hi>Shadrah</hi> at the mouth of the <hi>fierie furnace</hi> got worke for his patience,
+<note place="margin">Job 2.8</note> and ſo did Job upon the <hi>dung hill</hi>
+                  <note n="*" place="margin">Note.</note> It is the honour of patience not to <hi>lie upon beds of yvo<g ref="char:EOLhyphen"/>rie,</hi>
+                  <note place="margin">Amos 6.4</note> 
+                  <hi>and drink wine in bowls,</hi> but ra<g ref="char:EOLhyphen"/>ther
+<pb n="57" facs="tcp:174829:40"/>to endure hardneſſe, to paſſe through difficulties, to climb up the hill with Jonathan, and paſſe betweene the two ſharp rocks,
+<note place="margin">1 Sam. 14 4</note> 
+                  <hi>Bo<g ref="char:EOLhyphen"/>zez and Seneh,</hi> hurt and hatred.</p>
+               <p>
+                  <hi>The uſe;</hi>
+                  <note place="margin">The uſe.</note> let us all ſtrive for this grace, that in dayes of great diſt<g ref="char:EOLhyphen"/>reſſe wee may <hi>poſseſſe our ſoules in patience;</hi> when Genazi at Dothan ſaw the city compaſſed with ene<g ref="char:EOLhyphen"/>mies, he ſaid to his maſter Eliſhah, <hi>Alas my maſter, how ſhall wee do?</hi>
+                  <note place="margin">2 King 6.15</note> Our maſter Chriſt heere directs us all how to do in ſuch a caſe, <hi>In your patience,</hi> ſaith he, <hi>poſſeſse yee your ſoules;</hi>
+                  <note n="*" place="margin">Note.</note> A patient ſoule is a faire poſſeſſion; he that hath it, will not ſell it to a king, for his kingdome:
+<note place="margin">1 King 21.3</note> A good man like <hi>Naboth</hi> will not ſell his poſſeſſion; a man that hath a poſſeſſion, eſteemeth much of it; he dreſſeth it, he adorneth it, he pulleth out the weeds, hedgeth it about; ſeeing man is ſo carefull for a earthly triffle, O what care
+<pb n="76" facs="tcp:174829:41"/>ſhould we have for this moſt excel<g ref="char:EOLhyphen"/>lent poſſeſſion? that we may <hi>poſ<g ref="char:EOLhyphen"/>ſeſse our ſoules in patience;</hi> let us not ſell this poſſeſſion, though we might have a Kingdome in ex<g ref="char:EOLhyphen"/>change for it.</p>
+               <p>Obſerve heere alſo that great is the difference betweene the ſuf<g ref="char:EOLhyphen"/>ferings of the godly and the wic<g ref="char:EOLhyphen"/>ked;
+<note place="margin">The do<g ref="char:EOLhyphen"/>ctrine.</note> the wicked having once loſt their <hi>earthly poſseſsion</hi> have no other poſſeſſion when they are ſpoiled; ſuch ſay as Micah ſaid to the Da<g ref="char:EOLhyphen"/>nites,
+<note place="margin">Judg. 18. 24</note> 
+                  <hi>yee have taken away my gods and what have I more?</hi> but when the wicked have robbed and ſpoiled the godly man of all earthly poſ<g ref="char:EOLhyphen"/>ſeſſions, hee hath ſtill the beſt be<g ref="char:EOLhyphen"/>hind, <hi>he poſſeſſeth his ſoul in patience:</hi> Truely hee hath better reaſon for him then the wicked man:
+<note n="*" place="margin">Note.</note> For the wicked man having loſt his earthly poſſeſſion hath no promiſe of any recompenſe of reward, for all that he had, whether corne,
+<pb n="77" facs="tcp:174829:41"/>wine, oyle, ſilver, or gold, were all prepared <hi>for Baal,</hi>
+                  <note place="margin">Hoſ. 2.8</note> or rather for his belly, which having no ears, can no more heare, or help him in the dayes of his trouble, then <hi>Baal</hi> could hear the praiers of his prieſts,
+<note place="margin">Ioel 1.8</note> this having loſt his gods like <hi>Micah</hi> he mourneth and <hi>lamenteth like a virgine girded with ſackcloth for the husband of her youth,</hi> and will not be comforted like <hi>Rachal in Ramach</hi> weeping for her ſlaine ſucklings;
+<note place="margin">Mat. 2.18</note> 
+                  <hi>A worme hath ſmitten his gourd,</hi>
+                  <note place="margin">Iohn 4.7</note> and it is withered and he is out of patience, becauſe he never under<g ref="char:EOLhyphen"/>ſtood this counſel, and direction of Chriſt given to his ſervants, <hi>In your patience poſſeſſe your ſoules.</hi>
+               </p>
+               <p>
+                  <hi>The uſe,</hi>
+                  <note place="margin">The uſe.</note> Let the conſideration of all theſe things effectually move us to <hi>poſseſse our ſouls in patience,</hi> when tribulations and calamities ſhall come upon the land; let us reſolve to ſuffer loſſe of earthly things, that we may gaine the heavenly:
+<note n="*" place="margin">Note.</note> If
+<pb n="78" facs="tcp:174829:42"/>men had hearts to believe, everie one wuld be readier then another, to ſuffer for the name of Chriſt: as men that have moneys ſtrive to get a good hand, or as Maſters that have land, ſtrive to get good ten<g ref="char:EOLhyphen"/>nents, that will pay well, ſo ſhould we all be glad, when Chriſt calleth us to loſſe any thing for his names ſake, for by ſo loſſing we ſhall pro<g ref="char:EOLhyphen"/>fite much: There is nothing that cauſeth our feares in troubles, but either want or elſe weakneſſe of faith; fleſh and blood underſtands not in worldlie loſſes, to <hi>poſſeſſe their ſoules in patience.</hi>
+               </p>
+               <p>I confeſſe, that we are compaſ<g ref="char:EOLhyphen"/>ſed about with many infirmities, a little blaſt of winde terrified Peter in a miracle; yea, in a miracle of love in the very preſence of Chriſt, who like a loving maſter had com<g ref="char:EOLhyphen"/>manded him to come unto him u<g ref="char:EOLhyphen"/>pon the ſea; there was no remedie for his fear,
+<note place="margin">Mat. 14.31</note> untill Chriſt <hi>tooke him
+<pb n="79" facs="tcp:174829:42"/>by the hand,</hi> and reproving him for his weak faith put him up into the ſhip; we have all great need to pray that he would take us by the heart, and pity our infirmities which are great and many: O how hard a thing it is in time of wrongs to pra<g ref="char:EOLhyphen"/>ctiſe this precept, <hi>In your patience poſseſse ye your ſouls;</hi> It is to a carnal man like <hi>Shibboleth</hi> to an Ephra<g ref="char:EOLhyphen"/>mite,
+<note place="margin">Judg. 12.6</note> a word which he could not pronounce, ſo is it a precept which he can not practiſe: what ſhall we do then? As long as we are heere, troubles are fearfull to fleſh; but as ſoone as wee beginne to tremble, let us cry to Chriſt for faith, that <hi>in our patience wee may poſseſse our ſoules;</hi> wee had never more need then in theſe moſt terrible dayes of moſt bloody wars, wherein all men are exhorted to faſting and prayer, <hi>from Dan even to Beerſhebah.</hi>
+                  <note place="margin">2 Sam. 24.</note>
+               </p>
+               <p>* And now to end this whole ſermon in a word; know ye all this
+<pb n="80" facs="tcp:174829:43"/>day that the ſervants of the Lord upon their watch tower, as like Eli<g ref="char:EOLhyphen"/>jahs ſervants, upon the top of Car<g ref="char:EOLhyphen"/>mel, have at laſt ſpied <hi>a cloud,</hi> not of comforts but of wrath, ariſing <hi>like a mans hand;</hi>
+                  <note place="margin">1 King 18.44.</note> except the Lord avert it, it is like that cloud ready to <hi>cover the whole heavens,</hi> and to fall down upon his Majeſties three dominions in <hi>ſhowres of blood:</hi> ex<g ref="char:EOLhyphen"/>cept that with all diligence wee returne unto the Lord, all this evill ſhall ſurely come to paſſe: Dearly beloved, what I ſay unto you, I ſay unto all,
+<note place="margin">Heb. 10 36</note> 
+                  <hi>yee hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> need of patience,</hi> yea, and <hi>in your patience to poſseſse your ſouls.</hi> The Lord teach and en<g ref="char:EOLhyphen"/>able us all to doe ſo, for Chriſt his ſons ſake, Amen.</p>
+               <closer>To whom with our hearts this day,
+<note place="margin">Pſal. 119.54 Hoſ. 14.2</note> 
+                  <hi>in the houſe of our pilgrimage,</hi> we humbly <hi>render the calves of our lips,</hi> To him be glory for ever.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
